@@ -3,13 +3,14 @@ import os
 import operator
 import praw
 import time
+#left file paths blank for security reasons 
 d = ""
 o = ""
 uAgent = ""
-
+#Sets up reddit comment scraper
 bot = praw.Reddit(user_agent = uAgent, client_secret ="", client_id="", usename="");
 searchSubs = ['vapeheads', 'ShakeAndVape', 'vaping101', 'juiceswap', 'EJuicePorn']
-
+#scrapes comments and saves them 
 for i in searchSubs:
     subreddit = bot.subreddit(i)
     name = "output"+i+".csv"
@@ -42,7 +43,7 @@ def clean_text(s: str):
     return t
 
 class Scraper:
-    """docstring for Scraper"""
+    """scrapes flavor pages collected"""
     def __init__(self, directory: str, outputfile: str):
         print("Started")
         
@@ -99,7 +100,7 @@ def cleaner(inp: str, output: str):
 
 
 class Recipe_scraper:
-    """docstring for Scraper"""
+    """Scrapes recipe pages for flavors used -- really should have just made this an extra method"""
     def __init__(self, directory: str, outputfile: str):
         print("Started")
         
@@ -161,6 +162,3 @@ def cleaner(inp: str, output: str):
     f.close()
     o.close()
 
-x = Recipe_scraper(d, o)
-x.scanner()
-x.save()
