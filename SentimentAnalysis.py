@@ -12,8 +12,9 @@ from nltk.corpus import movie_reviews
 from nltk.stem import WordNetLemmatizer
 sentences = []
 sw = stopwords.words("english")
-
+#Please excuse this cluster fuck of code 
 def clean_text(t):
+    #standerdizes words
     t= nltk.word_tokenize(t, language='english')
     c_t = []
     for i in t:
@@ -27,10 +28,7 @@ def clean_text(t):
     c_t = " ".join(t)
     
     return c_t
-print(clean_text("An entertained pulp posts the gospel underneath the no coast."))
-
-
-
+#pulled from sentdex tutorial to sae some code 
 documents = [(list(movie_reviews.words(fileid)), category)
              for category in movie_reviews.categories()
              for fileid in movie_reviews.fileids(category)]
@@ -38,7 +36,7 @@ print("loaded docs")
 random.shuffle(documents)
 x_train = []
 y_train = []
-
+#Santizes training data
 for i in range(len(documents)):
     if documents[i][1] == "neg":
         y_train.append(0)
@@ -50,6 +48,7 @@ for i in range(len(documents)):
         y_train.append(1)
         x_train.append(clean_text(" ".join(documents[i][0])))
 print("prepped docs")
+#vectorizes training data
 vectorizer = CountVectorizer(analyzer = "word", max_features = 5000, tokenizer = None, stop_words = None, preprocessor = None) 
 x_train = vectorizer.fit_transform(x_train)
 x_train = x_train.toarray()
@@ -69,7 +68,8 @@ reddit = reddit.toarray()
 result = classy.predict(reddit)
 print("Predicted reddit docs")
 
-flavors = open("/Users/mark/Desktop/co.txt")
+flavors = open("")
+#keeps count of results
 flavor_list = []
 for i in flavors:
     i = clean_text(i)
