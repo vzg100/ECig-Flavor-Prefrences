@@ -3,14 +3,15 @@ import os
 import operator
 import praw
 import time
-#left file paths blank for security reasons 
+# Left file paths blank for security reasons 
+
 d = ""
 o = ""
 uAgent = ""
-#Sets up reddit comment scraper
+# Sets up reddit comment scraper
 bot = praw.Reddit(user_agent = uAgent, client_secret ="", client_id="", usename="");
 searchSubs = ['vapeheads', 'ShakeAndVape', 'vaping101', 'juiceswap', 'EJuicePorn']
-#scrapes comments and saves them 
+# Scrapes comments and saves them 
 for i in searchSubs:
     subreddit = bot.subreddit(i)
     name = "output"+i+".csv"
@@ -25,13 +26,12 @@ for i in searchSubs:
     output.close()
         
 
-
+# Just a helper function, saves some line of code
 def collect_files(directory):
     files = []
     f = open(directory)
     for line in f:
         files.append(line)
-
     return files
 
 def clean_text(s: str):
