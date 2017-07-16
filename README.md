@@ -1,1 +1,2 @@
-
+# Purpose
+The purpose of thise project is to identify flavor preferences of e-cigarettes online in order to identify any trends which might be concerning, in particular “brown” or “butter” flavors. This was a data scraping, NLP, and sentiment analysis project. It involved scraping reddit and a popular E-Cig repository. Using the collected data I built a list of commonly used flavors and how often they occurred in recipes, furthermore I used a bag of words approach and a Naive Bayes classifier for sentiment classification and tallied how often flavors were referred to in a positive vs. negative sentiment.
