@@ -1,0 +1,463 @@
+,Flavor Name,Positive,Negative,Total,Difference,Percent_Positive,Percent_Negative
+0,cap vanilla custard v,"MannwhitneyuResult(statistic=204.5, pvalue=0.42274804087025419)","MannwhitneyuResult(statistic=225.5, pvalue=0.48501488070639664)","MannwhitneyuResult(statistic=216.5, pvalue=0.45822590426342535)","MannwhitneyuResult(statistic=176.0, pvalue=0.3415217814495296)","MannwhitneyuResult(statistic=214.5, pvalue=0.45220763898211958)","MannwhitneyuResult(statistic=207.5, pvalue=0.43147382250355432)"
+1,rootbeer,"MannwhitneyuResult(statistic=220.0, pvalue=0.46863690863044938)","MannwhitneyuResult(statistic=208.5, pvalue=0.43434967269524122)","MannwhitneyuResult(statistic=231.0, pvalue=0.49850533775161482)","MannwhitneyuResult(statistic=171.0, pvalue=0.32787622656923454)","MannwhitneyuResult(statistic=148.5, pvalue=0.26912748858547797)","MannwhitneyuResult(statistic=155.5, pvalue=0.28674631773465231)"
+2,vanilla bean gelato,"MannwhitneyuResult(statistic=53.0, pvalue=0.09169654271408445)","MannwhitneyuResult(statistic=225.5, pvalue=0.48501488070639664)","MannwhitneyuResult(statistic=145.0, pvalue=0.26086739790781455)","MannwhitneyuResult(statistic=85.5, pvalue=0.13866724747123255)","MannwhitneyuResult(statistic=18.5, pvalue=0.055787351672885226)","MannwhitneyuResult(statistic=25.5, pvalue=0.061948932803038023)"
+3,fe lemon,"MannwhitneyuResult(statistic=131.5, pvalue=0.22903271074854481)","MannwhitneyuResult(statistic=69.0, pvalue=0.11243717993079594)","MannwhitneyuResult(statistic=73.5, pvalue=0.11969953796992289)","MannwhitneyuResult(statistic=229.0, pvalue=0.49551671948204939)","MannwhitneyuResult(statistic=53.5, pvalue=0.091995048913354138)","MannwhitneyuResult(statistic=46.5, pvalue=0.083622322441773811)"
+4,caramel cream,"MannwhitneyuResult(statistic=200.5, pvalue=0.41104800277925146)","MannwhitneyuResult(statistic=69.0, pvalue=0.11243717993079594)","MannwhitneyuResult(statistic=145.0, pvalue=0.26086739790781455)","MannwhitneyuResult(statistic=176.0, pvalue=0.3415217814495296)","MannwhitneyuResult(statistic=53.5, pvalue=0.091995048913354138)","MannwhitneyuResult(statistic=46.5, pvalue=0.083622322441773811)"
+5,menthol,"MannwhitneyuResult(statistic=9.5, pvalue=0.048822879643267439)","MannwhitneyuResult(statistic=18.5, pvalue=0.055580879950374182)","MannwhitneyuResult(statistic=14.5, pvalue=0.052775519306927247)","MannwhitneyuResult(statistic=6.5, pvalue=0.046655479134807769)","MannwhitneyuResult(statistic=180.5, pvalue=0.35373132208243219)","MannwhitneyuResult(statistic=173.5, pvalue=0.33439718588563849)"
+6,d wine,"MannwhitneyuResult(statistic=174.0, pvalue=0.33597726300955977)","MannwhitneyuResult(statistic=193.5, pvalue=0.39049684724083095)","MannwhitneyuResult(statistic=224.0, pvalue=0.4805770160490751)","MannwhitneyuResult(statistic=94.0, pvalue=0.15323782328634628)","MannwhitneyuResult(statistic=67.5, pvalue=0.11059488894697311)","MannwhitneyuResult(statistic=74.5, pvalue=0.12083292547691682)"
+7,tfa peanut butter,"MannwhitneyuResult(statistic=131.5, pvalue=0.22903271074854481)","MannwhitneyuResult(statistic=69.0, pvalue=0.11243717993079594)","MannwhitneyuResult(statistic=73.5, pvalue=0.11969953796992289)","MannwhitneyuResult(statistic=229.0, pvalue=0.49551671948204939)","MannwhitneyuResult(statistic=53.5, pvalue=0.091995048913354138)","MannwhitneyuResult(statistic=46.5, pvalue=0.083622322441773811)"
+8,raspberry v,"MannwhitneyuResult(statistic=87.5, pvalue=0.14190794216055552)","MannwhitneyuResult(statistic=175.0, pvalue=0.33832147149967873)","MannwhitneyuResult(statistic=116.5, pvalue=0.19648984663573998)","MannwhitneyuResult(statistic=134.0, pvalue=0.23484771056995746)","MannwhitneyuResult(statistic=67.5, pvalue=0.11059488894697311)","MannwhitneyuResult(statistic=74.5, pvalue=0.12083292547691682)"
+9,strawberry cloud,"MannwhitneyuResult(statistic=123.0, pvalue=0.21020701348205029)","MannwhitneyuResult(statistic=211.5, pvalue=0.44323605307996289)","MannwhitneyuResult(statistic=144.5, pvalue=0.25965474681803435)","MannwhitneyuResult(statistic=81.0, pvalue=0.1313485586332524)","MannwhitneyuResult(statistic=105.0, pvalue=0.17311737953587802)","MannwhitneyuResult(statistic=98.0, pvalue=0.1600007064080094)"
+10,liquid barn,"MannwhitneyuResult(statistic=227.0, pvalue=0.48953601473589387)","MannwhitneyuResult(statistic=211.5, pvalue=0.44323605307996289)","MannwhitneyuResult(statistic=224.0, pvalue=0.4805770160490751)","MannwhitneyuResult(statistic=199.0, pvalue=0.40671788557836219)","MannwhitneyuResult(statistic=214.5, pvalue=0.45220763898211958)","MannwhitneyuResult(statistic=207.5, pvalue=0.43147382250355432)"
+11,coconut fl,"MannwhitneyuResult(statistic=220.0, pvalue=0.46863690863044938)","MannwhitneyuResult(statistic=193.5, pvalue=0.39049684724083095)","MannwhitneyuResult(statistic=225.5, pvalue=0.48505684124986476)","MannwhitneyuResult(statistic=134.0, pvalue=0.23484771056995746)","MannwhitneyuResult(statistic=110.0, pvalue=0.18289401921817577)","MannwhitneyuResult(statistic=117.0, pvalue=0.19714759628234951)"
+12,pineapp,"MannwhitneyuResult(statistic=15.5, pvalue=0.053545605941534402)","MannwhitneyuResult(statistic=9.5, pvalue=0.048394887942673326)","MannwhitneyuResult(statistic=11.5, pvalue=0.050398989287616047)","MannwhitneyuResult(statistic=88.5, pvalue=0.14369843707414359)","MannwhitneyuResult(statistic=121.0, pvalue=0.20558608681391022)","MannwhitneyuResult(statistic=128.0, pvalue=0.22085899502140588)"
+13,vanilla butter,"MannwhitneyuResult(statistic=25.0, pvalue=0.061755238938887666)","MannwhitneyuResult(statistic=193.5, pvalue=0.39049684724083095)","MannwhitneyuResult(statistic=27.0, pvalue=0.063647791823053412)","MannwhitneyuResult(statistic=44.0, pvalue=0.081170846218045989)","MannwhitneyuResult(statistic=8.5, pvalue=0.047838677338876819)","MannwhitneyuResult(statistic=1.5, pvalue=0.042832837862326667)"
+14,black honey tobacco,"MannwhitneyuResult(statistic=200.5, pvalue=0.41104800277925146)","MannwhitneyuResult(statistic=69.0, pvalue=0.11243717993079594)","MannwhitneyuResult(statistic=145.0, pvalue=0.26086739790781455)","MannwhitneyuResult(statistic=176.0, pvalue=0.3415217814495296)","MannwhitneyuResult(statistic=53.5, pvalue=0.091995048913354138)","MannwhitneyuResult(statistic=46.5, pvalue=0.083622322441773811)"
+15,aromatic,"MannwhitneyuResult(statistic=204.5, pvalue=0.42274804087025419)","MannwhitneyuResult(statistic=131.5, pvalue=0.22846384554467375)","MannwhitneyuResult(statistic=224.0, pvalue=0.4805770160490751)","MannwhitneyuResult(statistic=141.5, pvalue=0.25245625881088107)","MannwhitneyuResult(statistic=111.5, pvalue=0.18589291387431706)","MannwhitneyuResult(statistic=104.5, pvalue=0.17215834122985879)"
+16,yogurt v,"MannwhitneyuResult(statistic=227.0, pvalue=0.48953601473589387)","MannwhitneyuResult(statistic=175.0, pvalue=0.33832147149967873)","MannwhitneyuResult(statistic=211.0, pvalue=0.4419145330210234)","MannwhitneyuResult(statistic=176.0, pvalue=0.3415217814495296)","MannwhitneyuResult(statistic=174.0, pvalue=0.33576420603258045)","MannwhitneyuResult(statistic=167.0, pvalue=0.31682754708528016)"
+17,yellow cake,"MannwhitneyuResult(statistic=96.5, pvalue=0.1576126086170539)","MannwhitneyuResult(statistic=193.5, pvalue=0.39049684724083095)","MannwhitneyuResult(statistic=109.5, pvalue=0.18229073673975621)","MannwhitneyuResult(statistic=57.5, pvalue=0.097470800200888386)","MannwhitneyuResult(statistic=105.0, pvalue=0.17311737953587802)","MannwhitneyuResult(statistic=98.0, pvalue=0.1600007064080094)"
+18,butter caramel,"MannwhitneyuResult(statistic=200.5, pvalue=0.41104800277925146)","MannwhitneyuResult(statistic=69.0, pvalue=0.11243717993079594)","MannwhitneyuResult(statistic=145.0, pvalue=0.26086739790781455)","MannwhitneyuResult(statistic=176.0, pvalue=0.3415217814495296)","MannwhitneyuResult(statistic=53.5, pvalue=0.091995048913354138)","MannwhitneyuResult(statistic=46.5, pvalue=0.083622322441773811)"
+19,coconut candy,"MannwhitneyuResult(statistic=220.0, pvalue=0.46863690863044938)","MannwhitneyuResult(statistic=139.0, pvalue=0.24587045581776168)","MannwhitneyuResult(statistic=177.0, pvalue=0.34425313036843197)","MannwhitneyuResult(statistic=53.0, pvalue=0.091790113823359887)","MannwhitneyuResult(statistic=50.0, pvalue=0.087754808305169352)","MannwhitneyuResult(statistic=57.0, pvalue=0.096428483281223054)"
+20,vanilla swirl,"MannwhitneyuResult(statistic=116.5, pvalue=0.19643614706888446)","MannwhitneyuResult(statistic=175.0, pvalue=0.33832147149967873)","MannwhitneyuResult(statistic=139.5, pvalue=0.24765881252563438)","MannwhitneyuResult(statistic=74.5, pvalue=0.12125498785158795)","MannwhitneyuResult(statistic=97.5, pvalue=0.15908935591925438)","MannwhitneyuResult(statistic=90.5, pvalue=0.14668790239258561)"
+21,cola,"MannwhitneyuResult(statistic=54.5, pvalue=0.093567067985252383)","MannwhitneyuResult(statistic=74.5, pvalue=0.12055790231323549)","MannwhitneyuResult(statistic=65.5, pvalue=0.10816093638545093)","MannwhitneyuResult(statistic=43.5, pvalue=0.080609289659542005)","MannwhitneyuResult(statistic=164.5, pvalue=0.31017614255496007)","MannwhitneyuResult(statistic=157.5, pvalue=0.291884277230397)"
+22,cpa,"MannwhitneyuResult(statistic=73.5, pvalue=0.11965737678910882)","MannwhitneyuResult(statistic=46.5, pvalue=0.083394126750513831)","MannwhitneyuResult(statistic=63.0, pvalue=0.10472109593289658)","MannwhitneyuResult(statistic=32.5, pvalue=0.068984640094347002)","MannwhitneyuResult(statistic=101.5, pvalue=0.166475668136498)","MannwhitneyuResult(statistic=108.5, pvalue=0.17992549594261836)"
+23,zebra,"MannwhitneyuResult(statistic=53.0, pvalue=0.09169654271408445)","MannwhitneyuResult(statistic=34.5, pvalue=0.070406920607329532)","MannwhitneyuResult(statistic=63.0, pvalue=0.10472109593289658)","MannwhitneyuResult(statistic=16.5, pvalue=0.054437950167931425)","MannwhitneyuResult(statistic=18.5, pvalue=0.055787351672885226)","MannwhitneyuResult(statistic=25.5, pvalue=0.061948932803038023)"
+24,zombie killer,"MannwhitneyuResult(statistic=200.5, pvalue=0.41104800277925146)","MannwhitneyuResult(statistic=155.0, pvalue=0.28524946903817111)","MannwhitneyuResult(statistic=188.5, pvalue=0.37649018819125168)","MannwhitneyuResult(statistic=63.0, pvalue=0.10475844452404293)","MannwhitneyuResult(statistic=50.0, pvalue=0.087754808305169352)","MannwhitneyuResult(statistic=57.0, pvalue=0.096428483281223054)"
+25,tropical punch,"MannwhitneyuResult(statistic=174.0, pvalue=0.33597726300955977)","MannwhitneyuResult(statistic=169.5, pvalue=0.32334641255611241)","MannwhitneyuResult(statistic=216.5, pvalue=0.45822590426342535)","MannwhitneyuResult(statistic=74.5, pvalue=0.12125467379245924)","MannwhitneyuResult(statistic=50.0, pvalue=0.087754808305169352)","MannwhitneyuResult(statistic=57.0, pvalue=0.096428483281223054)"
+26,strawberrybanana,"MannwhitneyuResult(statistic=131.5, pvalue=0.22903271074854481)","MannwhitneyuResult(statistic=131.5, pvalue=0.22846384554467375)","MannwhitneyuResult(statistic=116.5, pvalue=0.19648984663573998)","MannwhitneyuResult(statistic=204.0, pvalue=0.4213128176484458)","MannwhitneyuResult(statistic=214.5, pvalue=0.45220763898211958)","MannwhitneyuResult(statistic=207.5, pvalue=0.43147382250355432)"
+27,mola,"MannwhitneyuResult(statistic=174.0, pvalue=0.33597726300955977)","MannwhitneyuResult(statistic=208.5, pvalue=0.43434967269524122)","MannwhitneyuResult(statistic=211.0, pvalue=0.4419145330210234)","MannwhitneyuResult(statistic=110.0, pvalue=0.18332083145520339)","MannwhitneyuResult(statistic=80.5, pvalue=0.13012547456778811)","MannwhitneyuResult(statistic=87.5, pvalue=0.14157702666004646)"
+28,venom,"MannwhitneyuResult(statistic=101.0, pvalue=0.16587593279514679)","MannwhitneyuResult(statistic=94.0, pvalue=0.1525218910204475)","MannwhitneyuResult(statistic=102.0, pvalue=0.16780680257116187)","MannwhitneyuResult(statistic=97.0, pvalue=0.1586144980711981)","MannwhitneyuResult(statistic=212.5, pvalue=0.4462680801958025)","MannwhitneyuResult(statistic=219.5, pvalue=0.46710129179571314)"
+29,peanut butter jelly,"MannwhitneyuResult(statistic=227.0, pvalue=0.48953601473589387)","MannwhitneyuResult(statistic=145.5, pvalue=0.26150895912727884)","MannwhitneyuResult(statistic=177.0, pvalue=0.34425313036843197)","MannwhitneyuResult(statistic=63.0, pvalue=0.10475844452404293)","MannwhitneyuResult(statistic=57.0, pvalue=0.096428605107843512)","MannwhitneyuResult(statistic=64.0, pvalue=0.1057162949119953)"
+30,cantaloupe,"MannwhitneyuResult(statistic=188.5, pvalue=0.37646178559084975)","MannwhitneyuResult(statistic=139.0, pvalue=0.24587045581776168)","MannwhitneyuResult(statistic=163.5, pvalue=0.3078195719515423)","MannwhitneyuResult(statistic=80.0, pvalue=0.1297590795238685)","MannwhitneyuResult(statistic=88.5, pvalue=0.143266777289415)","MannwhitneyuResult(statistic=95.5, pvalue=0.15547764605291137)"
+31,caramel mocha,"MannwhitneyuResult(statistic=53.0, pvalue=0.09169654271408445)","MannwhitneyuResult(statistic=225.5, pvalue=0.48501488070639664)","MannwhitneyuResult(statistic=145.0, pvalue=0.26086739790781455)","MannwhitneyuResult(statistic=85.5, pvalue=0.13866724747123255)","MannwhitneyuResult(statistic=18.5, pvalue=0.055787351672885226)","MannwhitneyuResult(statistic=25.5, pvalue=0.061948932803038023)"
+32,rice krispy treat,"MannwhitneyuResult(statistic=214.5, pvalue=0.45227377513695871)","MannwhitneyuResult(statistic=175.0, pvalue=0.33832147149967873)","MannwhitneyuResult(statistic=224.0, pvalue=0.4805770160490751)","MannwhitneyuResult(statistic=159.5, pvalue=0.29738897573839534)","MannwhitneyuResult(statistic=161.0, pvalue=0.30096754358502831)","MannwhitneyuResult(statistic=154.0, pvalue=0.28293077335059902)"
+33,vanilla bean ice cream,"MannwhitneyuResult(statistic=47.5, pvalue=0.085098822200372348)","MannwhitneyuResult(statistic=110.0, pvalue=0.18261318262758158)","MannwhitneyuResult(statistic=56.5, pvalue=0.096149857468950439)","MannwhitneyuResult(statistic=31.5, pvalue=0.06799548963964365)","MannwhitneyuResult(statistic=103.5, pvalue=0.17025053862343459)","MannwhitneyuResult(statistic=96.5, pvalue=0.15727684807226205)"
+34,custard cream,"MannwhitneyuResult(statistic=214.5, pvalue=0.45227377513695871)","MannwhitneyuResult(statistic=131.5, pvalue=0.22846384554467375)","MannwhitneyuResult(statistic=211.0, pvalue=0.4419145330210234)","MannwhitneyuResult(statistic=152.0, pvalue=0.27822756698866852)","MannwhitneyuResult(statistic=116.0, pvalue=0.19507118359012493)","MannwhitneyuResult(statistic=109.0, pvalue=0.18091161439710979)"
+35,koolad,"MannwhitneyuResult(statistic=20.5, pvalue=0.057751624893430747)","MannwhitneyuResult(statistic=17.5, pvalue=0.05474306382931584)","MannwhitneyuResult(statistic=18.5, pvalue=0.056081540997352658)","MannwhitneyuResult(statistic=50.5, pvalue=0.088742084765250195)","MannwhitneyuResult(statistic=204.5, pvalue=0.42264233058502076)","MannwhitneyuResult(statistic=211.5, pvalue=0.44330262114204533)"
+36,e vanilla b,"MannwhitneyuResult(statistic=188.5, pvalue=0.37646178559084975)","MannwhitneyuResult(statistic=169.5, pvalue=0.32334641255611241)","MannwhitneyuResult(statistic=180.0, pvalue=0.35256543178123928)","MannwhitneyuResult(statistic=204.0, pvalue=0.4213128176484458)","MannwhitneyuResult(statistic=179.0, pvalue=0.34955431171892415)","MannwhitneyuResult(statistic=186.0, pvalue=0.36919477220799291)"
+37,huckleberry,"MannwhitneyuResult(statistic=204.5, pvalue=0.42274804087025419)","MannwhitneyuResult(statistic=164.0, pvalue=0.30864698717442801)","MannwhitneyuResult(statistic=182.5, pvalue=0.35954670562858249)","MannwhitneyuResult(statistic=110.0, pvalue=0.18332083145520339)","MannwhitneyuResult(statistic=108.5, pvalue=0.17992549594261836)","MannwhitneyuResult(statistic=115.5, pvalue=0.19403799574096942)"
+38,koolada,"MannwhitneyuResult(statistic=85.0, pvalue=0.13774425552644298)","MannwhitneyuResult(statistic=75.5, pvalue=0.12207259672845494)","MannwhitneyuResult(statistic=82.5, pvalue=0.13371844139572714)","MannwhitneyuResult(statistic=76.0, pvalue=0.12353441360108014)","MannwhitneyuResult(statistic=215.0, pvalue=0.45369452674145699)","MannwhitneyuResult(statistic=222.0, pvalue=0.47456664015665728)"
+39,graham crust,"MannwhitneyuResult(statistic=31.0, pvalue=0.067426497888719197)","MannwhitneyuResult(statistic=69.0, pvalue=0.11243717993079594)","MannwhitneyuResult(statistic=32.5, pvalue=0.068952012599287529)","MannwhitneyuResult(statistic=134.0, pvalue=0.23484771056995746)","MannwhitneyuResult(statistic=53.5, pvalue=0.091995048913354138)","MannwhitneyuResult(statistic=46.5, pvalue=0.083622322441773811)"
+40,zen garden,"MannwhitneyuResult(statistic=138.5, pvalue=0.24524424957470903)","MannwhitneyuResult(statistic=160.5, pvalue=0.2994481830529091)","MannwhitneyuResult(statistic=144.5, pvalue=0.25965474681803435)","MannwhitneyuResult(statistic=115.5, pvalue=0.19446256810568741)","MannwhitneyuResult(statistic=214.5, pvalue=0.45220763898211958)","MannwhitneyuResult(statistic=207.5, pvalue=0.43147382250355432)"
+41,holiday spice,"MannwhitneyuResult(statistic=53.0, pvalue=0.09169654271408445)","MannwhitneyuResult(statistic=175.0, pvalue=0.33832147149967873)","MannwhitneyuResult(statistic=73.5, pvalue=0.11969953796992289)","MannwhitneyuResult(statistic=110.0, pvalue=0.18332083145520339)","MannwhitneyuResult(statistic=18.5, pvalue=0.055787351672885226)","MannwhitneyuResult(statistic=25.5, pvalue=0.061948932803038023)"
+42,brandy,"MannwhitneyuResult(statistic=174.0, pvalue=0.33597726300955977)","MannwhitneyuResult(statistic=225.5, pvalue=0.48501488070639664)","MannwhitneyuResult(statistic=199.5, pvalue=0.40815740465721001)","MannwhitneyuResult(statistic=134.0, pvalue=0.23484771056995746)","MannwhitneyuResult(statistic=104.0, pvalue=0.17120269286735834)","MannwhitneyuResult(statistic=111.0, pvalue=0.18488987485363073)"
+43,bubblegum,"MannwhitneyuResult(statistic=104.5, pvalue=0.1724930773351574)","MannwhitneyuResult(statistic=83.5, pvalue=0.13467182078256934)","MannwhitneyuResult(statistic=95.5, pvalue=0.15587093368371313)","MannwhitneyuResult(statistic=152.0, pvalue=0.27822756698866852)","MannwhitneyuResult(statistic=182.5, pvalue=0.3593280867298313)","MannwhitneyuResult(statistic=189.5, pvalue=0.37914841299901164)"
+44,grape,"MannwhitneyuResult(statistic=76.5, pvalue=0.12420569952382771)","MannwhitneyuResult(statistic=51.5, pvalue=0.089308239312345938)","MannwhitneyuResult(statistic=67.5, pvalue=0.1109707963261013)","MannwhitneyuResult(statistic=39.0, pvalue=0.075686507499549194)","MannwhitneyuResult(statistic=107.5, pvalue=0.17796337997515654)","MannwhitneyuResult(statistic=114.5, pvalue=0.19198161812784059)"
+45,citric acid,"MannwhitneyuResult(statistic=181.5, pvalue=0.35671594634081016)","MannwhitneyuResult(statistic=193.5, pvalue=0.39049684724083095)","MannwhitneyuResult(statistic=185.0, pvalue=0.36657519887459217)","MannwhitneyuResult(statistic=159.5, pvalue=0.29738897573839534)","MannwhitneyuResult(statistic=231.0, pvalue=0.49850290865551811)","MannwhitneyuResult(statistic=224.0, pvalue=0.48054548389771318)"
+46,fa orange,"MannwhitneyuResult(statistic=53.0, pvalue=0.09169654271408445)","MannwhitneyuResult(statistic=175.0, pvalue=0.33832147149967873)","MannwhitneyuResult(statistic=73.5, pvalue=0.11969953796992289)","MannwhitneyuResult(statistic=110.0, pvalue=0.18332083145520339)","MannwhitneyuResult(statistic=18.5, pvalue=0.055787351672885226)","MannwhitneyuResult(statistic=25.5, pvalue=0.061948932803038023)"
+47,fa cheesecake,"MannwhitneyuResult(statistic=200.5, pvalue=0.41104800277925146)","MannwhitneyuResult(statistic=131.5, pvalue=0.22846384554467375)","MannwhitneyuResult(statistic=170.0, pvalue=0.32515297376888991)","MannwhitneyuResult(statistic=199.0, pvalue=0.40671788557836219)","MannwhitneyuResult(statistic=149.0, pvalue=0.27037322750613757)","MannwhitneyuResult(statistic=142.0, pvalue=0.2532741417310963)"
+48,kentucky bourbon,"MannwhitneyuResult(statistic=87.5, pvalue=0.14190794216055552)","MannwhitneyuResult(statistic=208.5, pvalue=0.43434967269524122)","MannwhitneyuResult(statistic=188.0, pvalue=0.37506800880223501)","MannwhitneyuResult(statistic=85.5, pvalue=0.13866724747123255)","MannwhitneyuResult(statistic=36.5, pvalue=0.072691841267635449)","MannwhitneyuResult(statistic=43.5, pvalue=0.080234628919342466)"
+49,waffle cap,"MannwhitneyuResult(statistic=52.5, pvalue=0.091086451607874486)","MannwhitneyuResult(statistic=86.5, pvalue=0.13961893559132804)","MannwhitneyuResult(statistic=66.5, pvalue=0.10955939804430148)","MannwhitneyuResult(statistic=39.5, pvalue=0.07622191120592664)","MannwhitneyuResult(statistic=136.5, pvalue=0.24024953680462763)","MannwhitneyuResult(statistic=129.5, pvalue=0.22421431623196769)"
+50,gummy candy,"MannwhitneyuResult(statistic=227.0, pvalue=0.48953601473589387)","MannwhitneyuResult(statistic=193.5, pvalue=0.39049684724083095)","MannwhitneyuResult(statistic=216.5, pvalue=0.45822590426342535)","MannwhitneyuResult(statistic=171.0, pvalue=0.32787622656923454)","MannwhitneyuResult(statistic=148.5, pvalue=0.26912748858547797)","MannwhitneyuResult(statistic=155.5, pvalue=0.28674631773465231)"
+51,boom,"MannwhitneyuResult(statistic=75.5, pvalue=0.12267634399550303)","MannwhitneyuResult(statistic=64.0, pvalue=0.10544886718866914)","MannwhitneyuResult(statistic=74.0, pvalue=0.12046283677003827)","MannwhitneyuResult(statistic=91.0, pvalue=0.14798379319317106)","MannwhitneyuResult(statistic=192.5, pvalue=0.38774463067480258)","MannwhitneyuResult(statistic=199.5, pvalue=0.40801080397069722)"
+52,peanut butter v,"MannwhitneyuResult(statistic=173.0, pvalue=0.3332492785891264)","MannwhitneyuResult(statistic=155.0, pvalue=0.28524946903817111)","MannwhitneyuResult(statistic=167.0, pvalue=0.31710330094222527)","MannwhitneyuResult(statistic=171.0, pvalue=0.32787622656923454)","MannwhitneyuResult(statistic=148.5, pvalue=0.26912748858547797)","MannwhitneyuResult(statistic=155.5, pvalue=0.28674631773465231)"
+53,vanilla custard v,"MannwhitneyuResult(statistic=31.0, pvalue=0.067426497888719197)","MannwhitneyuResult(statistic=25.0, pvalue=0.061275837636835792)","MannwhitneyuResult(statistic=29.5, pvalue=0.066018054098771012)","MannwhitneyuResult(statistic=171.0, pvalue=0.32787622656923454)","MannwhitneyuResult(statistic=148.5, pvalue=0.26912748858547797)","MannwhitneyuResult(statistic=155.5, pvalue=0.28674631773465231)"
+54,gingerbread,"MannwhitneyuResult(statistic=227.0, pvalue=0.48953601473589387)","MannwhitneyuResult(statistic=127.0, pvalue=0.21836950168894342)","MannwhitneyuResult(statistic=167.0, pvalue=0.31710330094222527)","MannwhitneyuResult(statistic=50.5, pvalue=0.088742084765250195)","MannwhitneyuResult(statistic=50.0, pvalue=0.087754808305169352)","MannwhitneyuResult(statistic=57.0, pvalue=0.096428483281223054)"
+55,apple pie,"MannwhitneyuResult(statistic=57.5, pvalue=0.097381002568503405)","MannwhitneyuResult(statistic=62.5, pvalue=0.10340751281292188)","MannwhitneyuResult(statistic=64.5, pvalue=0.10677537057214098)","MannwhitneyuResult(statistic=47.5, pvalue=0.085184775504301258)","MannwhitneyuResult(statistic=203.5, pvalue=0.41970678735579475)","MannwhitneyuResult(statistic=196.5, pvalue=0.39929169701824352)"
+56,cappuccino,"MannwhitneyuResult(statistic=94.5, pvalue=0.15402835461709585)","MannwhitneyuResult(statistic=127.0, pvalue=0.21836950168894342)","MannwhitneyuResult(statistic=102.0, pvalue=0.16780680257116187)","MannwhitneyuResult(statistic=63.5, pvalue=0.10544043070761144)","MannwhitneyuResult(statistic=156.0, pvalue=0.28803091023103355)","MannwhitneyuResult(statistic=149.0, pvalue=0.27037354761047089)"
+57,meringue,"MannwhitneyuResult(statistic=92.0, pvalue=0.14962444403302938)","MannwhitneyuResult(statistic=70.5, pvalue=0.11463162292934898)","MannwhitneyuResult(statistic=80.5, pvalue=0.13051271874898474)","MannwhitneyuResult(statistic=171.0, pvalue=0.32787622656923454)","MannwhitneyuResult(statistic=148.5, pvalue=0.26912748858547797)","MannwhitneyuResult(statistic=155.5, pvalue=0.28674631773465231)"
+58,jackfruit,"MannwhitneyuResult(statistic=220.0, pvalue=0.46863690863044938)","MannwhitneyuResult(statistic=131.5, pvalue=0.22846384554467375)","MannwhitneyuResult(statistic=188.0, pvalue=0.37506800880223501)","MannwhitneyuResult(statistic=176.0, pvalue=0.3415217814495296)","MannwhitneyuResult(statistic=134.5, pvalue=0.23560526284506678)","MannwhitneyuResult(statistic=127.5, pvalue=0.21974695953066176)"
+59,e cardamom,"MannwhitneyuResult(statistic=227.0, pvalue=0.48953601473589387)","MannwhitneyuResult(statistic=175.0, pvalue=0.33832147149967873)","MannwhitneyuResult(statistic=211.0, pvalue=0.4419145330210234)","MannwhitneyuResult(statistic=176.0, pvalue=0.3415217814495296)","MannwhitneyuResult(statistic=174.0, pvalue=0.33576420603258045)","MannwhitneyuResult(statistic=167.0, pvalue=0.31682754708528016)"
+60,pecan,"MannwhitneyuResult(statistic=63.5, pvalue=0.10534863780584286)","MannwhitneyuResult(statistic=50.5, pvalue=0.088101118939071799)","MannwhitneyuResult(statistic=60.5, pvalue=0.10136121329268938)","MannwhitneyuResult(statistic=97.0, pvalue=0.1586144980711981)","MannwhitneyuResult(statistic=181.5, pvalue=0.356525842432864)","MannwhitneyuResult(statistic=188.5, pvalue=0.37629600244825345)"
+61,capella ca,"MannwhitneyuResult(statistic=53.0, pvalue=0.09169654271408445)","MannwhitneyuResult(statistic=211.5, pvalue=0.44323605307996289)","MannwhitneyuResult(statistic=116.5, pvalue=0.19648984663573998)","MannwhitneyuResult(statistic=94.0, pvalue=0.15323782328634628)","MannwhitneyuResult(statistic=18.5, pvalue=0.055787351672885226)","MannwhitneyuResult(statistic=25.5, pvalue=0.061948932803038023)"
+62,strawberry d,"MannwhitneyuResult(statistic=62.0, pvalue=0.10331384308162606)","MannwhitneyuResult(statistic=155.0, pvalue=0.28524946903817111)","MannwhitneyuResult(statistic=77.5, pvalue=0.12580446937191397)","MannwhitneyuResult(statistic=42.0, pvalue=0.078942175217852906)","MannwhitneyuResult(statistic=100.5, pvalue=0.16460865334174901)","MannwhitneyuResult(statistic=93.5, pvalue=0.15192109290489381)"
+63,e lemonade,"MannwhitneyuResult(statistic=159.0, pvalue=0.29601838550931081)","MannwhitneyuResult(statistic=139.0, pvalue=0.24587045581776168)","MannwhitneyuResult(statistic=151.5, pvalue=0.27693938177936561)","MannwhitneyuResult(statistic=134.0, pvalue=0.23484771056995746)","MannwhitneyuResult(statistic=123.5, pvalue=0.21096735323650256)","MannwhitneyuResult(statistic=130.5, pvalue=0.22646717481628165)"
+64,bubble,"MannwhitneyuResult(statistic=72.0, pvalue=0.1174277899331917)","MannwhitneyuResult(statistic=44.5, pvalue=0.081112712289994338)","MannwhitneyuResult(statistic=57.5, pvalue=0.097433848789057032)","MannwhitneyuResult(statistic=28.5, pvalue=0.065093688049924228)","MannwhitneyuResult(statistic=95.5, pvalue=0.1554779698239418)","MannwhitneyuResult(statistic=102.5, pvalue=0.16835629903131483)"
+65,tfa blueberry extra,"MannwhitneyuResult(statistic=200.5, pvalue=0.41104800277925146)","MannwhitneyuResult(statistic=69.0, pvalue=0.11243717993079594)","MannwhitneyuResult(statistic=145.0, pvalue=0.26086739790781455)","MannwhitneyuResult(statistic=176.0, pvalue=0.3415217814495296)","MannwhitneyuResult(statistic=53.5, pvalue=0.091995048913354138)","MannwhitneyuResult(statistic=46.5, pvalue=0.083622322441773811)"
+66,french vanilla,"MannwhitneyuResult(statistic=85.0, pvalue=0.13774425552644298)","MannwhitneyuResult(statistic=91.0, pvalue=0.14726873982761773)","MannwhitneyuResult(statistic=87.5, pvalue=0.14196811649843288)","MannwhitneyuResult(statistic=62.0, pvalue=0.10340516108600728)","MannwhitneyuResult(statistic=194.5, pvalue=0.39350645608518714)","MannwhitneyuResult(statistic=187.5, pvalue=0.3734503322730619)"
+67,maraschino cherry,"MannwhitneyuResult(statistic=131.5, pvalue=0.22903271074854481)","MannwhitneyuResult(statistic=69.0, pvalue=0.11243717993079594)","MannwhitneyuResult(statistic=73.5, pvalue=0.11969953796992289)","MannwhitneyuResult(statistic=229.0, pvalue=0.49551671948204939)","MannwhitneyuResult(statistic=53.5, pvalue=0.091995048913354138)","MannwhitneyuResult(statistic=46.5, pvalue=0.083622322441773811)"
+68,yellow e,"MannwhitneyuResult(statistic=87.5, pvalue=0.14190794216055552)","MannwhitneyuResult(statistic=175.0, pvalue=0.33832147149967873)","MannwhitneyuResult(statistic=116.5, pvalue=0.19648984663573998)","MannwhitneyuResult(statistic=134.0, pvalue=0.23484771056995746)","MannwhitneyuResult(statistic=67.5, pvalue=0.11059488894697311)","MannwhitneyuResult(statistic=74.5, pvalue=0.12083292547691682)"
+69,mocha,"MannwhitneyuResult(statistic=133.5, pvalue=0.23361079592952871)","MannwhitneyuResult(statistic=139.0, pvalue=0.24587045581776168)","MannwhitneyuResult(statistic=135.5, pvalue=0.23827941009364795)","MannwhitneyuResult(statistic=125.5, pvalue=0.21574340913789375)","MannwhitneyuResult(statistic=219.5, pvalue=0.46710129179571314)","MannwhitneyuResult(statistic=226.5, pvalue=0.48802504068255359)"
+70,raspberry g,"MannwhitneyuResult(statistic=214.5, pvalue=0.45227377513695871)","MannwhitneyuResult(statistic=69.0, pvalue=0.11243717993079594)","MannwhitneyuResult(statistic=199.5, pvalue=0.40815740465721001)","MannwhitneyuResult(statistic=141.5, pvalue=0.25245625881088107)","MannwhitneyuResult(statistic=53.5, pvalue=0.091995048913354138)","MannwhitneyuResult(statistic=46.5, pvalue=0.083622322441773811)"
+71,cheesecake,"MannwhitneyuResult(statistic=26.5, pvalue=0.063136909573981534)","MannwhitneyuResult(statistic=52.5, pvalue=0.090527621480939846)","MannwhitneyuResult(statistic=30.5, pvalue=0.066985126661004868)","MannwhitneyuResult(statistic=16.5, pvalue=0.054437950167931425)","MannwhitneyuResult(statistic=121.5, pvalue=0.20665578379283672)","MannwhitneyuResult(statistic=114.5, pvalue=0.19198161812784059)"
+72,ethyl maltol,"MannwhitneyuResult(statistic=104.5, pvalue=0.1724930773351574)","MannwhitneyuResult(statistic=61.0, pvalue=0.10139497023112121)","MannwhitneyuResult(statistic=85.5, pvalue=0.13862780342716896)","MannwhitneyuResult(statistic=35.0, pvalue=0.071506011865202751)","MannwhitneyuResult(statistic=77.5, pvalue=0.12541944843475178)","MannwhitneyuResult(statistic=84.5, pvalue=0.13658820819997608)"
+73,cream,"MannwhitneyuResult(statistic=23.5, pvalue=0.060397309070861535)","MannwhitneyuResult(statistic=22.5, pvalue=0.059033761605442873)","MannwhitneyuResult(statistic=24.5, pvalue=0.061344270206457843)","MannwhitneyuResult(statistic=26.5, pvalue=0.063213178678191664)","MannwhitneyuResult(statistic=213.5, pvalue=0.44923654754879888)","MannwhitneyuResult(statistic=220.5, pvalue=0.47008619128495699)"
+74,jamaican rum,"MannwhitneyuResult(statistic=87.5, pvalue=0.14190794216055552)","MannwhitneyuResult(statistic=131.5, pvalue=0.22846384554467375)","MannwhitneyuResult(statistic=73.5, pvalue=0.11969953796992289)","MannwhitneyuResult(statistic=171.0, pvalue=0.32787622656923454)","MannwhitneyuResult(statistic=148.5, pvalue=0.26912748858547797)","MannwhitneyuResult(statistic=155.5, pvalue=0.28674631773465231)"
+75,strawberry ripe,"MannwhitneyuResult(statistic=81.0, pvalue=0.13125260993332416)","MannwhitneyuResult(statistic=114.5, pvalue=0.19170299695378096)","MannwhitneyuResult(statistic=88.5, pvalue=0.143658542821684)","MannwhitneyuResult(statistic=55.5, pvalue=0.094915004550447601)","MannwhitneyuResult(statistic=154.5, pvalue=0.28420174633062978)","MannwhitneyuResult(statistic=147.5, pvalue=0.26666145894900306)"
+76,after dark,"MannwhitneyuResult(statistic=188.5, pvalue=0.37646178559084975)","MannwhitneyuResult(statistic=225.5, pvalue=0.48501488070639664)","MannwhitneyuResult(statistic=202.5, pvalue=0.41690870512775191)","MannwhitneyuResult(statistic=152.0, pvalue=0.27822756698866852)","MannwhitneyuResult(statistic=192.5, pvalue=0.38774461406105409)","MannwhitneyuResult(statistic=185.5, pvalue=0.36777976850862404)"
+77,waffle,"MannwhitneyuResult(statistic=12.5, pvalue=0.051140874077555888)","MannwhitneyuResult(statistic=21.5, pvalue=0.058155153106844305)","MannwhitneyuResult(statistic=16.5, pvalue=0.054408669754223711)","MannwhitneyuResult(statistic=5.5, pvalue=0.045929009219192733)","MannwhitneyuResult(statistic=159.5, pvalue=0.29705911092258019)","MannwhitneyuResult(statistic=152.5, pvalue=0.27913436219953497)"
+78,graham cracker clear,"MannwhitneyuResult(statistic=220.0, pvalue=0.46863690863044938)","MannwhitneyuResult(statistic=208.5, pvalue=0.43434967269524122)","MannwhitneyuResult(statistic=231.0, pvalue=0.49850533775161482)","MannwhitneyuResult(statistic=171.0, pvalue=0.32787622656923454)","MannwhitneyuResult(statistic=148.5, pvalue=0.26912748858547797)","MannwhitneyuResult(statistic=155.5, pvalue=0.28674631773465231)"
+79,apple candy,"MannwhitneyuResult(statistic=87.5, pvalue=0.14190794216055552)","MannwhitneyuResult(statistic=211.5, pvalue=0.44323605307996289)","MannwhitneyuResult(statistic=145.0, pvalue=0.26086739790781455)","MannwhitneyuResult(statistic=110.0, pvalue=0.18332083145520339)","MannwhitneyuResult(statistic=50.0, pvalue=0.087754808305169352)","MannwhitneyuResult(statistic=57.0, pvalue=0.096428483281223054)"
+80,fuji apple,"MannwhitneyuResult(statistic=131.5, pvalue=0.22903271074854481)","MannwhitneyuResult(statistic=176.0, pvalue=0.34107909560117422)","MannwhitneyuResult(statistic=231.0, pvalue=0.49850533775161482)","MannwhitneyuResult(statistic=74.5, pvalue=0.12125467379245924)","MannwhitneyuResult(statistic=42.0, pvalue=0.078570360553694582)","MannwhitneyuResult(statistic=49.0, pvalue=0.086564795259055638)"
+81,yellow cupcake,"MannwhitneyuResult(statistic=53.0, pvalue=0.09169654271408445)","MannwhitneyuResult(statistic=175.0, pvalue=0.33832147149967873)","MannwhitneyuResult(statistic=73.5, pvalue=0.11969953796992289)","MannwhitneyuResult(statistic=110.0, pvalue=0.18332083145520339)","MannwhitneyuResult(statistic=18.5, pvalue=0.055787351672885226)","MannwhitneyuResult(statistic=25.5, pvalue=0.061948932803038023)"
+82,ccls,"MannwhitneyuResult(statistic=53.0, pvalue=0.09169654271408445)","MannwhitneyuResult(statistic=193.5, pvalue=0.39049684724083095)","MannwhitneyuResult(statistic=188.0, pvalue=0.37506800880223501)","MannwhitneyuResult(statistic=74.5, pvalue=0.12125467379245924)","MannwhitneyuResult(statistic=18.5, pvalue=0.055787351672885226)","MannwhitneyuResult(statistic=25.5, pvalue=0.061948932803038023)"
+83,blueberry lemonade,"MannwhitneyuResult(statistic=48.5, pvalue=0.086272121943753943)","MannwhitneyuResult(statistic=80.0, pvalue=0.12905389111877602)","MannwhitneyuResult(statistic=55.5, pvalue=0.094878349094951908)","MannwhitneyuResult(statistic=36.5, pvalue=0.073052448353350258)","MannwhitneyuResult(statistic=130.5, pvalue=0.22646717481628165)","MannwhitneyuResult(statistic=123.5, pvalue=0.21096735323650256)"
+84,cherry blossom,"MannwhitneyuResult(statistic=151.5, pvalue=0.27689241940171183)","MannwhitneyuResult(statistic=193.5, pvalue=0.39049684724083095)","MannwhitneyuResult(statistic=171.5, pvalue=0.32921014934278148)","MannwhitneyuResult(statistic=119.0, pvalue=0.20176114246159915)","MannwhitneyuResult(statistic=184.0, pvalue=0.3635456277304398)","MannwhitneyuResult(statistic=177.0, pvalue=0.34401326543766364)"
+85,strawberry kiwi,"MannwhitneyuResult(statistic=106.5, pvalue=0.1763488997196051)","MannwhitneyuResult(statistic=127.0, pvalue=0.21836950168894342)","MannwhitneyuResult(statistic=110.5, pvalue=0.18427930243317087)","MannwhitneyuResult(statistic=78.0, pvalue=0.12662010737757506)","MannwhitneyuResult(statistic=190.5, pvalue=0.38200741883978284)","MannwhitneyuResult(statistic=183.5, pvalue=0.36213791804098816)"
+86,starburst,"MannwhitneyuResult(statistic=138.5, pvalue=0.24524424957470903)","MannwhitneyuResult(statistic=119.0, pvalue=0.20106472170286516)","MannwhitneyuResult(statistic=132.5, pvalue=0.23137456466944301)","MannwhitneyuResult(statistic=204.0, pvalue=0.4213128176484458)","MannwhitneyuResult(statistic=173.5, pvalue=0.33439718588563849)","MannwhitneyuResult(statistic=180.5, pvalue=0.35373132208243219)"
+87,white chocolate,"MannwhitneyuResult(statistic=148.0, pvalue=0.26817876240255467)","MannwhitneyuResult(statistic=73.5, pvalue=0.11905649078143909)","MannwhitneyuResult(statistic=107.5, pvalue=0.17835401654322591)","MannwhitneyuResult(statistic=31.0, pvalue=0.067505026882681285)","MannwhitneyuResult(statistic=46.0, pvalue=0.083067268550951257)","MannwhitneyuResult(statistic=53.0, pvalue=0.091398156973010514)"
+88,raspberry r,"MannwhitneyuResult(statistic=131.5, pvalue=0.22903271074854481)","MannwhitneyuResult(statistic=69.0, pvalue=0.11243717993079594)","MannwhitneyuResult(statistic=73.5, pvalue=0.11969953796992289)","MannwhitneyuResult(statistic=229.0, pvalue=0.49551671948204939)","MannwhitneyuResult(statistic=53.5, pvalue=0.091995048913354138)","MannwhitneyuResult(statistic=46.5, pvalue=0.083622322441773811)"
+89,melon mint,"MannwhitneyuResult(statistic=87.5, pvalue=0.14190794216055552)","MannwhitneyuResult(statistic=208.5, pvalue=0.43434967269524122)","MannwhitneyuResult(statistic=188.0, pvalue=0.37506800880223501)","MannwhitneyuResult(statistic=85.5, pvalue=0.13866724747123255)","MannwhitneyuResult(statistic=36.5, pvalue=0.072691841267635449)","MannwhitneyuResult(statistic=43.5, pvalue=0.080234628919342466)"
+90,sweet cream cap,"MannwhitneyuResult(statistic=131.5, pvalue=0.22903271074854481)","MannwhitneyuResult(statistic=69.0, pvalue=0.11243717993079594)","MannwhitneyuResult(statistic=73.5, pvalue=0.11969953796992289)","MannwhitneyuResult(statistic=229.0, pvalue=0.49551671948204939)","MannwhitneyuResult(statistic=53.5, pvalue=0.091995048913354138)","MannwhitneyuResult(statistic=46.5, pvalue=0.083622322441773811)"
+91,root beer o,"MannwhitneyuResult(statistic=87.5, pvalue=0.14190794216055552)","MannwhitneyuResult(statistic=131.5, pvalue=0.22846384554467375)","MannwhitneyuResult(statistic=73.5, pvalue=0.11969953796992289)","MannwhitneyuResult(statistic=171.0, pvalue=0.32787622656923454)","MannwhitneyuResult(statistic=148.5, pvalue=0.26912748858547797)","MannwhitneyuResult(statistic=155.5, pvalue=0.28674631773465231)"
+92,pom,"MannwhitneyuResult(statistic=31.0, pvalue=0.067426497888719197)","MannwhitneyuResult(statistic=105.0, pvalue=0.17283486061923103)","MannwhitneyuResult(statistic=156.0, pvalue=0.2883406117377687)","MannwhitneyuResult(statistic=39.0, pvalue=0.075686507499549194)","MannwhitneyuResult(statistic=1.5, pvalue=0.042832837862326667)","MannwhitneyuResult(statistic=8.5, pvalue=0.047838677338876819)"
+93,cap vanilla bean ice,"MannwhitneyuResult(statistic=31.0, pvalue=0.067426497888719197)","MannwhitneyuResult(statistic=69.0, pvalue=0.11243717993079594)","MannwhitneyuResult(statistic=32.5, pvalue=0.068952012599287529)","MannwhitneyuResult(statistic=134.0, pvalue=0.23484771056995746)","MannwhitneyuResult(statistic=53.5, pvalue=0.091995048913354138)","MannwhitneyuResult(statistic=46.5, pvalue=0.083622322441773811)"
+94,reven,"MannwhitneyuResult(statistic=39.5, pvalue=0.076139428440405527)","MannwhitneyuResult(statistic=36.5, pvalue=0.072456264944758014)","MannwhitneyuResult(statistic=37.5, pvalue=0.074063965130793899)","MannwhitneyuResult(statistic=42.0, pvalue=0.078942175217852906)","MannwhitneyuResult(statistic=211.5, pvalue=0.44330262114204533)","MannwhitneyuResult(statistic=218.5, pvalue=0.46411824125260659)"
+95,inw biscuit,"MannwhitneyuResult(statistic=53.0, pvalue=0.09169654271408445)","MannwhitneyuResult(statistic=225.5, pvalue=0.48501488070639664)","MannwhitneyuResult(statistic=145.0, pvalue=0.26086739790781455)","MannwhitneyuResult(statistic=85.5, pvalue=0.13866724747123255)","MannwhitneyuResult(statistic=18.5, pvalue=0.055787351672885226)","MannwhitneyuResult(statistic=25.5, pvalue=0.061948932803038023)"
+96,hard candy,"MannwhitneyuResult(statistic=200.5, pvalue=0.41104800277925146)","MannwhitneyuResult(statistic=175.0, pvalue=0.33832147149967873)","MannwhitneyuResult(statistic=188.0, pvalue=0.37506800880223501)","MannwhitneyuResult(statistic=229.0, pvalue=0.49551671948204939)","MannwhitneyuResult(statistic=214.5, pvalue=0.45220763898211958)","MannwhitneyuResult(statistic=207.5, pvalue=0.43147382250355432)"
+97,strawberry del,"MannwhitneyuResult(statistic=131.5, pvalue=0.22903271074854481)","MannwhitneyuResult(statistic=69.0, pvalue=0.11243717993079594)","MannwhitneyuResult(statistic=73.5, pvalue=0.11969953796992289)","MannwhitneyuResult(statistic=229.0, pvalue=0.49551671948204939)","MannwhitneyuResult(statistic=53.5, pvalue=0.091995048913354138)","MannwhitneyuResult(statistic=46.5, pvalue=0.083622322441773811)"
+98,blue raspberry ca,"MannwhitneyuResult(statistic=131.5, pvalue=0.22903271074854481)","MannwhitneyuResult(statistic=211.5, pvalue=0.44323605307996289)","MannwhitneyuResult(statistic=170.0, pvalue=0.32515297376888991)","MannwhitneyuResult(statistic=134.0, pvalue=0.23484771056995746)","MannwhitneyuResult(statistic=88.5, pvalue=0.143266777289415)","MannwhitneyuResult(statistic=95.5, pvalue=0.15547764605291137)"
+99,ry double,"MannwhitneyuResult(statistic=114.5, pvalue=0.19231149354052396)","MannwhitneyuResult(statistic=225.5, pvalue=0.48501488070639664)","MannwhitneyuResult(statistic=134.5, pvalue=0.2359653348604363)","MannwhitneyuResult(statistic=72.5, pvalue=0.11826194623990122)","MannwhitneyuResult(statistic=107.5, pvalue=0.17796337997515654)","MannwhitneyuResult(statistic=100.5, pvalue=0.16460865334174901)"
+100,menthol liquid,"MannwhitneyuResult(statistic=173.0, pvalue=0.3332492785891264)","MannwhitneyuResult(statistic=175.0, pvalue=0.33832147149967873)","MannwhitneyuResult(statistic=202.5, pvalue=0.41690870512775191)","MannwhitneyuResult(statistic=119.0, pvalue=0.20176114246159915)","MannwhitneyuResult(statistic=124.0, pvalue=0.21205336575630612)","MannwhitneyuResult(statistic=117.0, pvalue=0.1971475459442466)"
+101,coconut diy,"MannwhitneyuResult(statistic=53.0, pvalue=0.09169654271408445)","MannwhitneyuResult(statistic=175.0, pvalue=0.33832147149967873)","MannwhitneyuResult(statistic=73.5, pvalue=0.11969953796992289)","MannwhitneyuResult(statistic=110.0, pvalue=0.18332083145520339)","MannwhitneyuResult(statistic=18.5, pvalue=0.055787351672885226)","MannwhitneyuResult(statistic=25.5, pvalue=0.061948932803038023)"
+102,freckled lemonade,"MannwhitneyuResult(statistic=200.5, pvalue=0.41104800277925146)","MannwhitneyuResult(statistic=175.0, pvalue=0.33832147149967873)","MannwhitneyuResult(statistic=188.0, pvalue=0.37506800880223501)","MannwhitneyuResult(statistic=229.0, pvalue=0.49551671948204939)","MannwhitneyuResult(statistic=214.5, pvalue=0.45220763898211958)","MannwhitneyuResult(statistic=207.5, pvalue=0.43147382250355432)"
+103,raspberry w,"MannwhitneyuResult(statistic=53.0, pvalue=0.09169654271408445)","MannwhitneyuResult(statistic=211.5, pvalue=0.44323605307996289)","MannwhitneyuResult(statistic=116.5, pvalue=0.19648984663573998)","MannwhitneyuResult(statistic=94.0, pvalue=0.15323782328634628)","MannwhitneyuResult(statistic=18.5, pvalue=0.055787351672885226)","MannwhitneyuResult(statistic=25.5, pvalue=0.061948932803038023)"
+104,rice pudding,"MannwhitneyuResult(statistic=133.5, pvalue=0.23361079592952871)","MannwhitneyuResult(statistic=211.5, pvalue=0.44323605307996289)","MannwhitneyuResult(statistic=156.0, pvalue=0.2883406117377687)","MannwhitneyuResult(statistic=91.0, pvalue=0.14798379319317106)","MannwhitneyuResult(statistic=111.5, pvalue=0.18589291387431706)","MannwhitneyuResult(statistic=104.5, pvalue=0.17215834122985879)"
+105,em sweetener,"MannwhitneyuResult(statistic=87.5, pvalue=0.14190794216055552)","MannwhitneyuResult(statistic=131.5, pvalue=0.22846384554467375)","MannwhitneyuResult(statistic=73.5, pvalue=0.11969953796992289)","MannwhitneyuResult(statistic=171.0, pvalue=0.32787622656923454)","MannwhitneyuResult(statistic=148.5, pvalue=0.26912748858547797)","MannwhitneyuResult(statistic=155.5, pvalue=0.28674631773465231)"
+106,yoghurt,"MannwhitneyuResult(statistic=214.5, pvalue=0.45227377513695871)","MannwhitneyuResult(statistic=145.5, pvalue=0.26150895912727884)","MannwhitneyuResult(statistic=174.0, pvalue=0.33601545893418072)","MannwhitneyuResult(statistic=69.0, pvalue=0.11315065057573465)","MannwhitneyuResult(statistic=67.5, pvalue=0.11059488894697311)","MannwhitneyuResult(statistic=74.5, pvalue=0.12083292547691682)"
+107,tfa strawberry ripe,"MannwhitneyuResult(statistic=174.0, pvalue=0.33597726300955977)","MannwhitneyuResult(statistic=175.0, pvalue=0.33832147149967873)","MannwhitneyuResult(statistic=170.0, pvalue=0.32515297376888991)","MannwhitneyuResult(statistic=204.0, pvalue=0.4213128176484458)","MannwhitneyuResult(statistic=208.5, pvalue=0.43442590162101818)","MannwhitneyuResult(statistic=215.5, pvalue=0.455181830368035)"
+108,capella blueberry,"MannwhitneyuResult(statistic=53.0, pvalue=0.09169654271408445)","MannwhitneyuResult(statistic=175.0, pvalue=0.33832147149967873)","MannwhitneyuResult(statistic=73.5, pvalue=0.11969953796992289)","MannwhitneyuResult(statistic=110.0, pvalue=0.18332083145520339)","MannwhitneyuResult(statistic=18.5, pvalue=0.055787351672885226)","MannwhitneyuResult(statistic=25.5, pvalue=0.061948932803038023)"
+109,smooth,"MannwhitneyuResult(statistic=20.5, pvalue=0.057751624893430747)","MannwhitneyuResult(statistic=19.5, pvalue=0.05642878489125875)","MannwhitneyuResult(statistic=19.5, pvalue=0.056933053729301714)","MannwhitneyuResult(statistic=30.5, pvalue=0.067017326053800064)","MannwhitneyuResult(statistic=194.5, pvalue=0.39350645608518714)","MannwhitneyuResult(statistic=201.5, pvalue=0.41384924277607232)"
+110,vanilla bourbon,"MannwhitneyuResult(statistic=87.5, pvalue=0.14190794216055552)","MannwhitneyuResult(statistic=225.5, pvalue=0.48501488070639664)","MannwhitneyuResult(statistic=170.0, pvalue=0.32515297376888991)","MannwhitneyuResult(statistic=94.0, pvalue=0.15323782328634628)","MannwhitneyuResult(statistic=42.0, pvalue=0.078570360553694582)","MannwhitneyuResult(statistic=49.0, pvalue=0.086564795259055638)"
+111,tfa sweet cream,"MannwhitneyuResult(statistic=174.0, pvalue=0.33597726300955977)","MannwhitneyuResult(statistic=69.0, pvalue=0.11243717993079594)","MannwhitneyuResult(statistic=116.5, pvalue=0.19648984663573998)","MannwhitneyuResult(statistic=199.0, pvalue=0.40671788557836219)","MannwhitneyuResult(statistic=53.5, pvalue=0.091995048913354138)","MannwhitneyuResult(statistic=46.5, pvalue=0.083622322441773811)"
+112,coconut rum,"MannwhitneyuResult(statistic=87.5, pvalue=0.14190794216055552)","MannwhitneyuResult(statistic=131.5, pvalue=0.22846384554467375)","MannwhitneyuResult(statistic=73.5, pvalue=0.11969953796992289)","MannwhitneyuResult(statistic=171.0, pvalue=0.32787622656923454)","MannwhitneyuResult(statistic=148.5, pvalue=0.26912748858547797)","MannwhitneyuResult(statistic=155.5, pvalue=0.28674631773465231)"
+113,menthol crystal,"MannwhitneyuResult(statistic=200.5, pvalue=0.41104800277925146)","MannwhitneyuResult(statistic=69.0, pvalue=0.11243717993079594)","MannwhitneyuResult(statistic=145.0, pvalue=0.26086739790781455)","MannwhitneyuResult(statistic=176.0, pvalue=0.3415217814495296)","MannwhitneyuResult(statistic=53.5, pvalue=0.091995048913354138)","MannwhitneyuResult(statistic=46.5, pvalue=0.083622322441773811)"
+114,cake yellow,"MannwhitneyuResult(statistic=174.0, pvalue=0.33597726300955977)","MannwhitneyuResult(statistic=69.0, pvalue=0.11243717993079594)","MannwhitneyuResult(statistic=116.5, pvalue=0.19648984663573998)","MannwhitneyuResult(statistic=199.0, pvalue=0.40671788557836219)","MannwhitneyuResult(statistic=53.5, pvalue=0.091995048913354138)","MannwhitneyuResult(statistic=46.5, pvalue=0.083622322441773811)"
+115,vanilla bean i,"MannwhitneyuResult(statistic=13.5, pvalue=0.051932715526986604)","MannwhitneyuResult(statistic=14.0, pvalue=0.051889085835384895)","MannwhitneyuResult(statistic=13.5, pvalue=0.051973656673246688)","MannwhitneyuResult(statistic=15.5, pvalue=0.053616231048766429)","MannwhitneyuResult(statistic=108.5, pvalue=0.17992549594261836)","MannwhitneyuResult(statistic=101.5, pvalue=0.166475668136498)"
+116,toasted almond,"MannwhitneyuResult(statistic=227.0, pvalue=0.48953601473589387)","MannwhitneyuResult(statistic=139.0, pvalue=0.24587045581776168)","MannwhitneyuResult(statistic=174.0, pvalue=0.33601545893418072)","MannwhitneyuResult(statistic=56.0, pvalue=0.095549215980781865)","MannwhitneyuResult(statistic=55.0, pvalue=0.09388851709771856)","MannwhitneyuResult(statistic=62.0, pvalue=0.10299903420625678)"
+117,key lime,"MannwhitneyuResult(statistic=67.5, pvalue=0.11091607823956662)","MannwhitneyuResult(statistic=66.5, pvalue=0.1089156549747568)","MannwhitneyuResult(statistic=71.5, pvalue=0.11674653300526572)","MannwhitneyuResult(statistic=59.0, pvalue=0.099420502478339778)","MannwhitneyuResult(statistic=224.0, pvalue=0.48054548389771318)","MannwhitneyuResult(statistic=231.0, pvalue=0.49850290865551811)"
+118,blackberry lemonade,"MannwhitneyuResult(statistic=87.5, pvalue=0.14190794216055552)","MannwhitneyuResult(statistic=175.0, pvalue=0.33832147149967873)","MannwhitneyuResult(statistic=116.5, pvalue=0.19648984663573998)","MannwhitneyuResult(statistic=134.0, pvalue=0.23484771056995746)","MannwhitneyuResult(statistic=67.5, pvalue=0.11059488894697311)","MannwhitneyuResult(statistic=74.5, pvalue=0.12083292547691682)"
+119,ygt,"MannwhitneyuResult(statistic=53.0, pvalue=0.09169654271408445)","MannwhitneyuResult(statistic=193.5, pvalue=0.39049684724083095)","MannwhitneyuResult(statistic=188.0, pvalue=0.37506800880223501)","MannwhitneyuResult(statistic=74.5, pvalue=0.12125467379245924)","MannwhitneyuResult(statistic=18.5, pvalue=0.055787351672885226)","MannwhitneyuResult(statistic=25.5, pvalue=0.061948932803038023)"
+120,salted caramel,"MannwhitneyuResult(statistic=188.5, pvalue=0.37646178559084975)","MannwhitneyuResult(statistic=208.5, pvalue=0.43434967269524122)","MannwhitneyuResult(statistic=194.5, pvalue=0.3936750649676648)","MannwhitneyuResult(statistic=159.5, pvalue=0.29738897573839534)","MannwhitneyuResult(statistic=214.5, pvalue=0.45220763898211958)","MannwhitneyuResult(statistic=207.5, pvalue=0.43147382250355432)"
+121,peanut butter cup,"MannwhitneyuResult(statistic=58.5, pvalue=0.098677320585828843)","MannwhitneyuResult(statistic=53.5, pvalue=0.091759320453030424)","MannwhitneyuResult(statistic=59.0, pvalue=0.099383336260685518)","MannwhitneyuResult(statistic=66.5, pvalue=0.10959753987908377)","MannwhitneyuResult(statistic=198.0, pvalue=0.40364525897575021)","MannwhitneyuResult(statistic=205.0, pvalue=0.42411172101407946)"
+122,grapefruit,"MannwhitneyuResult(statistic=124.5, pvalue=0.21346362727472501)","MannwhitneyuResult(statistic=139.0, pvalue=0.24587045581776168)","MannwhitneyuResult(statistic=131.0, pvalue=0.22796441963062813)","MannwhitneyuResult(statistic=106.0, pvalue=0.17547671092278161)","MannwhitneyuResult(statistic=226.5, pvalue=0.48802504068255359)","MannwhitneyuResult(statistic=219.5, pvalue=0.46710129179571314)"
+123,cotton candy,"MannwhitneyuResult(statistic=121.0, pvalue=0.2059105834081979)","MannwhitneyuResult(statistic=78.0, pvalue=0.12591763286898255)","MannwhitneyuResult(statistic=105.5, pvalue=0.17447125975458672)","MannwhitneyuResult(statistic=42.5, pvalue=0.079494961702767541)","MannwhitneyuResult(statistic=83.5, pvalue=0.13495234710138793)","MannwhitneyuResult(statistic=90.5, pvalue=0.14668790239258561)"
+124,tfa vanilla swirl,"MannwhitneyuResult(statistic=220.0, pvalue=0.46863690863044938)","MannwhitneyuResult(statistic=69.0, pvalue=0.11243717993079594)","MannwhitneyuResult(statistic=170.0, pvalue=0.32515297376888991)","MannwhitneyuResult(statistic=159.5, pvalue=0.29738897573839534)","MannwhitneyuResult(statistic=53.5, pvalue=0.091995048913354138)","MannwhitneyuResult(statistic=46.5, pvalue=0.083622322441773811)"
+125,lemon lime,"MannwhitneyuResult(statistic=227.0, pvalue=0.48953601473589387)","MannwhitneyuResult(statistic=164.0, pvalue=0.30864698717442801)","MannwhitneyuResult(statistic=188.5, pvalue=0.37649018819125168)","MannwhitneyuResult(statistic=85.5, pvalue=0.13866724747123255)","MannwhitneyuResult(statistic=80.5, pvalue=0.13012547456778811)","MannwhitneyuResult(statistic=87.5, pvalue=0.14157702666004646)"
+126,american red,"MannwhitneyuResult(statistic=87.5, pvalue=0.14190794216055552)","MannwhitneyuResult(statistic=131.5, pvalue=0.22846384554467375)","MannwhitneyuResult(statistic=73.5, pvalue=0.11969953796992289)","MannwhitneyuResult(statistic=171.0, pvalue=0.32787622656923454)","MannwhitneyuResult(statistic=148.5, pvalue=0.26912748858547797)","MannwhitneyuResult(statistic=155.5, pvalue=0.28674631773465231)"
+127,blueraspberry,"MannwhitneyuResult(statistic=87.5, pvalue=0.14190794216055552)","MannwhitneyuResult(statistic=225.5, pvalue=0.48501488070639664)","MannwhitneyuResult(statistic=170.0, pvalue=0.32515297376888991)","MannwhitneyuResult(statistic=94.0, pvalue=0.15323782328634628)","MannwhitneyuResult(statistic=42.0, pvalue=0.078570360553694582)","MannwhitneyuResult(statistic=49.0, pvalue=0.086564795259055638)"
+128,la cream cheese icing,"MannwhitneyuResult(statistic=200.5, pvalue=0.41104800277925146)","MannwhitneyuResult(statistic=69.0, pvalue=0.11243717993079594)","MannwhitneyuResult(statistic=145.0, pvalue=0.26086739790781455)","MannwhitneyuResult(statistic=176.0, pvalue=0.3415217814495296)","MannwhitneyuResult(statistic=53.5, pvalue=0.091995048913354138)","MannwhitneyuResult(statistic=46.5, pvalue=0.083622322441773811)"
+129,d yogurt,"MannwhitneyuResult(statistic=174.0, pvalue=0.33597726300955977)","MannwhitneyuResult(statistic=208.5, pvalue=0.43434967269524122)","MannwhitneyuResult(statistic=211.0, pvalue=0.4419145330210234)","MannwhitneyuResult(statistic=110.0, pvalue=0.18332083145520339)","MannwhitneyuResult(statistic=80.5, pvalue=0.13012547456778811)","MannwhitneyuResult(statistic=87.5, pvalue=0.14157702666004646)"
+130,whipped cream,"MannwhitneyuResult(statistic=78.5, pvalue=0.12730430082971889)","MannwhitneyuResult(statistic=155.0, pvalue=0.28524946903817111)","MannwhitneyuResult(statistic=91.5, pvalue=0.14881105623363355)","MannwhitneyuResult(statistic=50.0, pvalue=0.088141652682821703)","MannwhitneyuResult(statistic=113.5, pvalue=0.18993863355406493)","MannwhitneyuResult(statistic=106.5, pvalue=0.17601481161330756)"
+131,cinnamon roll,"MannwhitneyuResult(statistic=44.5, pvalue=0.081650686241241999)","MannwhitneyuResult(statistic=100.5, pvalue=0.16432530313655125)","MannwhitneyuResult(statistic=53.5, pvalue=0.092372577635927156)","MannwhitneyuResult(statistic=29.5, pvalue=0.066050081592786525)","MannwhitneyuResult(statistic=106.5, pvalue=0.17601481161330756)","MannwhitneyuResult(statistic=99.5, pvalue=0.16275526046785366)"
+132,coconut ext,"MannwhitneyuResult(statistic=23.5, pvalue=0.060397309070861535)","MannwhitneyuResult(statistic=69.0, pvalue=0.11243717993079594)","MannwhitneyuResult(statistic=25.5, pvalue=0.062257743529776019)","MannwhitneyuResult(statistic=48.0, pvalue=0.085770114947477161)","MannwhitneyuResult(statistic=53.5, pvalue=0.091995048913354138)","MannwhitneyuResult(statistic=46.5, pvalue=0.083622322441773811)"
+133,vienna cream,"MannwhitneyuResult(statistic=174.0, pvalue=0.33597726300955977)","MannwhitneyuResult(statistic=69.0, pvalue=0.11243717993079594)","MannwhitneyuResult(statistic=116.5, pvalue=0.19648984663573998)","MannwhitneyuResult(statistic=199.0, pvalue=0.40671788557836219)","MannwhitneyuResult(statistic=53.5, pvalue=0.091995048913354138)","MannwhitneyuResult(statistic=46.5, pvalue=0.083622322441773811)"
+134,spearmint,"MannwhitneyuResult(statistic=85.0, pvalue=0.13774425552644298)","MannwhitneyuResult(statistic=76.5, pvalue=0.12360060526344357)","MannwhitneyuResult(statistic=83.5, pvalue=0.13534143814692068)","MannwhitneyuResult(statistic=72.5, pvalue=0.11826194623990122)","MannwhitneyuResult(statistic=220.5, pvalue=0.47008619128495699)","MannwhitneyuResult(statistic=227.5, pvalue=0.49101819031893457)"
+135,papa smurf,"MannwhitneyuResult(statistic=131.5, pvalue=0.22903271074854481)","MannwhitneyuResult(statistic=164.0, pvalue=0.30864698717442801)","MannwhitneyuResult(statistic=216.5, pvalue=0.45822590426342535)","MannwhitneyuResult(statistic=63.0, pvalue=0.10475844452404293)","MannwhitneyuResult(statistic=36.5, pvalue=0.072691841267635449)","MannwhitneyuResult(statistic=43.5, pvalue=0.080234628919342466)"
+136,fruity,"MannwhitneyuResult(statistic=30.5, pvalue=0.06693908179869372)","MannwhitneyuResult(statistic=14.5, pvalue=0.052289414143402282)","MannwhitneyuResult(statistic=21.5, pvalue=0.058666594732365067)","MannwhitneyuResult(statistic=12.5, pvalue=0.05120992005274045)","MannwhitneyuResult(statistic=75.5, pvalue=0.12234890961426748)","MannwhitneyuResult(statistic=82.5, pvalue=0.13332993956335187)"
+137,tart sour,"MannwhitneyuResult(statistic=174.0, pvalue=0.33597726300955977)","MannwhitneyuResult(statistic=131.5, pvalue=0.22846384554467375)","MannwhitneyuResult(statistic=145.0, pvalue=0.26086739790781455)","MannwhitneyuResult(statistic=229.0, pvalue=0.49551671948204939)","MannwhitneyuResult(statistic=174.0, pvalue=0.33576420603258045)","MannwhitneyuResult(statistic=167.0, pvalue=0.31682754708528016)"
+138,blood orange,"MannwhitneyuResult(statistic=109.0, pvalue=0.18124466679583312)","MannwhitneyuResult(statistic=89.0, pvalue=0.14383480537241244)","MannwhitneyuResult(statistic=105.5, pvalue=0.17447125975458672)","MannwhitneyuResult(statistic=132.5, pvalue=0.23141141354168077)","MannwhitneyuResult(statistic=188.0, pvalue=0.37487230843160901)","MannwhitneyuResult(statistic=195.0, pvalue=0.39495061201669307)"
+139,strawberry capella,"MannwhitneyuResult(statistic=131.5, pvalue=0.22903271074854481)","MannwhitneyuResult(statistic=69.0, pvalue=0.11243717993079594)","MannwhitneyuResult(statistic=73.5, pvalue=0.11969953796992289)","MannwhitneyuResult(statistic=229.0, pvalue=0.49551671948204939)","MannwhitneyuResult(statistic=53.5, pvalue=0.091995048913354138)","MannwhitneyuResult(statistic=46.5, pvalue=0.083622322441773811)"
+140,peanut butter,"MannwhitneyuResult(statistic=7.5, pvalue=0.047324750671411307)","MannwhitneyuResult(statistic=8.5, pvalue=0.047644546061290143)","MannwhitneyuResult(statistic=7.5, pvalue=0.047363817676310378)","MannwhitneyuResult(statistic=10.5, pvalue=0.049654016732861316)","MannwhitneyuResult(statistic=202.5, pvalue=0.416775705395801)","MannwhitneyuResult(statistic=209.5, pvalue=0.43738138268133159)"
+141,yuko,"MannwhitneyuResult(statistic=131.5, pvalue=0.22903271074854481)","MannwhitneyuResult(statistic=225.5, pvalue=0.48501488070639664)","MannwhitneyuResult(statistic=188.0, pvalue=0.37506800880223501)","MannwhitneyuResult(statistic=110.0, pvalue=0.18332083145520339)","MannwhitneyuResult(statistic=67.5, pvalue=0.11059488894697311)","MannwhitneyuResult(statistic=74.5, pvalue=0.12083292547691682)"
+142,malted milk,"MannwhitneyuResult(statistic=87.5, pvalue=0.14190794216055552)","MannwhitneyuResult(statistic=175.0, pvalue=0.33832147149967873)","MannwhitneyuResult(statistic=116.5, pvalue=0.19648984663573998)","MannwhitneyuResult(statistic=134.0, pvalue=0.23484771056995746)","MannwhitneyuResult(statistic=67.5, pvalue=0.11059488894697311)","MannwhitneyuResult(statistic=74.5, pvalue=0.12083292547691682)"
+143,white chocola,"MannwhitneyuResult(statistic=22.5, pvalue=0.059505073876174416)","MannwhitneyuResult(statistic=12.5, pvalue=0.050702741604600074)","MannwhitneyuResult(statistic=19.5, pvalue=0.056933053729301714)","MannwhitneyuResult(statistic=68.0, pvalue=0.1117196612117437)","MannwhitneyuResult(statistic=46.0, pvalue=0.083067268550951257)","MannwhitneyuResult(statistic=53.0, pvalue=0.091398156973010514)"
+144,peanut butter cookie,"MannwhitneyuResult(statistic=159.0, pvalue=0.29601838550931081)","MannwhitneyuResult(statistic=175.0, pvalue=0.33832147149967873)","MannwhitneyuResult(statistic=188.5, pvalue=0.37649018819125168)","MannwhitneyuResult(statistic=112.0, pvalue=0.18732673929857735)","MannwhitneyuResult(statistic=116.0, pvalue=0.19507118359012493)","MannwhitneyuResult(statistic=109.0, pvalue=0.18091161439710979)"
+145,reunite,"MannwhitneyuResult(statistic=87.5, pvalue=0.14190794216055552)","MannwhitneyuResult(statistic=131.5, pvalue=0.22846384554467375)","MannwhitneyuResult(statistic=73.5, pvalue=0.11969953796992289)","MannwhitneyuResult(statistic=171.0, pvalue=0.32787622656923454)","MannwhitneyuResult(statistic=148.5, pvalue=0.26912748858547797)","MannwhitneyuResult(statistic=155.5, pvalue=0.28674631773465231)"
+146,caramel c,"MannwhitneyuResult(statistic=107.5, pvalue=0.17829708406078859)","MannwhitneyuResult(statistic=16.5, pvalue=0.053915263226339973)","MannwhitneyuResult(statistic=216.5, pvalue=0.45822590426342535)","MannwhitneyuResult(statistic=50.0, pvalue=0.088141652682821703)","MannwhitneyuResult(statistic=7.5, pvalue=0.04709612472380055)","MannwhitneyuResult(statistic=0.5, pvalue=0.042153593901937396)"
+147,banana cr,"MannwhitneyuResult(statistic=8.5, pvalue=0.048069144611083144)","MannwhitneyuResult(statistic=11.5, pvalue=0.049923910923178216)","MannwhitneyuResult(statistic=9.5, pvalue=0.048862573816276123)","MannwhitneyuResult(statistic=5.5, pvalue=0.045929009219192733)","MannwhitneyuResult(statistic=128.5, pvalue=0.22197423841365843)","MannwhitneyuResult(statistic=121.5, pvalue=0.20665578379283672)"
+148,blue raspberry cotton candy,"MannwhitneyuResult(statistic=220.0, pvalue=0.46863690863044938)","MannwhitneyuResult(statistic=69.0, pvalue=0.11243717993079594)","MannwhitneyuResult(statistic=170.0, pvalue=0.32515297376888991)","MannwhitneyuResult(statistic=159.5, pvalue=0.29738897573839534)","MannwhitneyuResult(statistic=53.5, pvalue=0.091995048913354138)","MannwhitneyuResult(statistic=46.5, pvalue=0.083622322441773811)"
+149,tiramisu,"MannwhitneyuResult(statistic=74.5, pvalue=0.12116024658795871)","MannwhitneyuResult(statistic=65.5, pvalue=0.10751923910607658)","MannwhitneyuResult(statistic=74.0, pvalue=0.12046283677003827)","MannwhitneyuResult(statistic=86.5, pvalue=0.14033098361254237)","MannwhitneyuResult(statistic=196.5, pvalue=0.39929169701824352)","MannwhitneyuResult(statistic=203.5, pvalue=0.41970678735579475)"
+150,root beer,"MannwhitneyuResult(statistic=27.5, pvalue=0.064071309326533474)","MannwhitneyuResult(statistic=123.0, pvalue=0.20961215273932265)","MannwhitneyuResult(statistic=34.5, pvalue=0.07096318012150668)","MannwhitneyuResult(statistic=12.5, pvalue=0.05120992005274045)","MannwhitneyuResult(statistic=93.5, pvalue=0.15192109290489381)","MannwhitneyuResult(statistic=86.5, pvalue=0.13990058556149004)"
+151,cinnamon sugar cookie,"MannwhitneyuResult(statistic=195.5, pvalue=0.39653658005780834)","MannwhitneyuResult(statistic=69.0, pvalue=0.11243717993079594)","MannwhitneyuResult(statistic=224.0, pvalue=0.4805770160490751)","MannwhitneyuResult(statistic=125.5, pvalue=0.21574340913789375)","MannwhitneyuResult(statistic=53.5, pvalue=0.091995048913354138)","MannwhitneyuResult(statistic=46.5, pvalue=0.083622322441773811)"
+152,cap harvest berry,"MannwhitneyuResult(statistic=131.5, pvalue=0.22903271074854481)","MannwhitneyuResult(statistic=69.0, pvalue=0.11243717993079594)","MannwhitneyuResult(statistic=73.5, pvalue=0.11969953796992289)","MannwhitneyuResult(statistic=229.0, pvalue=0.49551671948204939)","MannwhitneyuResult(statistic=53.5, pvalue=0.091995048913354138)","MannwhitneyuResult(statistic=46.5, pvalue=0.083622322441773811)"
+153,cheesecake graham crust,"MannwhitneyuResult(statistic=200.5, pvalue=0.41104800277925146)","MannwhitneyuResult(statistic=69.0, pvalue=0.11243717993079594)","MannwhitneyuResult(statistic=145.0, pvalue=0.26086739790781455)","MannwhitneyuResult(statistic=176.0, pvalue=0.3415217814495296)","MannwhitneyuResult(statistic=53.5, pvalue=0.091995048913354138)","MannwhitneyuResult(statistic=46.5, pvalue=0.083622322441773811)"
+154,rice krispy,"MannwhitneyuResult(statistic=214.5, pvalue=0.45227377513695871)","MannwhitneyuResult(statistic=225.5, pvalue=0.48501488070639664)","MannwhitneyuResult(statistic=225.5, pvalue=0.48505684124986476)","MannwhitneyuResult(statistic=199.0, pvalue=0.40671788557836219)","MannwhitneyuResult(statistic=228.5, pvalue=0.49401184580651664)","MannwhitneyuResult(statistic=226.5, pvalue=0.48802504068255359)"
+155,orange cream,"MannwhitneyuResult(statistic=113.0, pvalue=0.18925302328038485)","MannwhitneyuResult(statistic=145.5, pvalue=0.26150895912727884)","MannwhitneyuResult(statistic=119.5, pvalue=0.20277828875911197)","MannwhitneyuResult(statistic=78.0, pvalue=0.12662010737757506)","MannwhitneyuResult(statistic=174.0, pvalue=0.33576420603258045)","MannwhitneyuResult(statistic=167.0, pvalue=0.31682754708528016)"
+156,raspberry,"MannwhitneyuResult(statistic=1.5, pvalue=0.043050372953020534)","MannwhitneyuResult(statistic=3.5, pvalue=0.044031529997405255)","MannwhitneyuResult(statistic=1.5, pvalue=0.043087549382838812)","MannwhitneyuResult(statistic=1.5, pvalue=0.043113550691608479)","MannwhitneyuResult(statistic=188.5, pvalue=0.37629600244825345)","MannwhitneyuResult(statistic=181.5, pvalue=0.356525842432864)"
+157,vanilla custard,"MannwhitneyuResult(statistic=17.5, pvalue=0.055197928820728555)","MannwhitneyuResult(statistic=20.5, pvalue=0.057286851690307769)","MannwhitneyuResult(statistic=17.5, pvalue=0.055240103851116683)","MannwhitneyuResult(statistic=9.5, pvalue=0.048890334913549556)","MannwhitneyuResult(statistic=198.5, pvalue=0.40509913998051306)","MannwhitneyuResult(statistic=191.5, pvalue=0.38487287380569141)"
+158,peanut butter e,"MannwhitneyuResult(statistic=131.5, pvalue=0.22903271074854481)","MannwhitneyuResult(statistic=175.0, pvalue=0.33832147149967873)","MannwhitneyuResult(statistic=145.0, pvalue=0.26086739790781455)","MannwhitneyuResult(statistic=171.0, pvalue=0.32787622656923454)","MannwhitneyuResult(statistic=148.5, pvalue=0.26912748858547797)","MannwhitneyuResult(statistic=155.5, pvalue=0.28674631773465231)"
+159,coconut extract,"MannwhitneyuResult(statistic=131.5, pvalue=0.22903271074854481)","MannwhitneyuResult(statistic=69.0, pvalue=0.11243717993079594)","MannwhitneyuResult(statistic=73.5, pvalue=0.11969953796992289)","MannwhitneyuResult(statistic=229.0, pvalue=0.49551671948204939)","MannwhitneyuResult(statistic=53.5, pvalue=0.091995048913354138)","MannwhitneyuResult(statistic=46.5, pvalue=0.083622322441773811)"
+160,strawberry conc,"MannwhitneyuResult(statistic=53.0, pvalue=0.09169654271408445)","MannwhitneyuResult(statistic=69.0, pvalue=0.11243717993079594)","MannwhitneyuResult(statistic=37.5, pvalue=0.074063799158887292)","MannwhitneyuResult(statistic=171.0, pvalue=0.32787622656923454)","MannwhitneyuResult(statistic=0.0, pvalue=0.041817260096943587)","MannwhitneyuResult(statistic=0.0, pvalue=0.041817260096943587)"
+161,chestnut,"MannwhitneyuResult(statistic=174.0, pvalue=0.33597726300955977)","MannwhitneyuResult(statistic=131.5, pvalue=0.22846384554467375)","MannwhitneyuResult(statistic=145.0, pvalue=0.26086739790781455)","MannwhitneyuResult(statistic=229.0, pvalue=0.49551671948204939)","MannwhitneyuResult(statistic=174.0, pvalue=0.33576420603258045)","MannwhitneyuResult(statistic=167.0, pvalue=0.31682754708528016)"
+163,cinnamon,0,0,0,0,0,0
+164,white out,0,0,0,0,0,0
+165,blackberry,0,0,0,0,0,0
+166,vanilla,0,0,0,0,0,0
+167,chocolate cream,0,0,0,0,0,0
+168,pale,0,0,0,0,0,0
+169,yumberry,0,0,0,0,0,0
+170,licorice,0,0,0,0,0,0
+171,dragonfruit,0,0,0,0,0,0
+172,blueberry candy,0,0,0,0,0,0
+173,honeysuckle,0,0,0,0,0,0
+174,dragon fruit,0,0,0,0,0,0
+175,mandarin,0,0,0,0,0,0
+176,creamy coconut,0,0,0,0,0,0
+177,peanut butter chocolate,0,0,0,0,0,0
+178,strawberry r,0,0,0,0,0,0
+179,vanilla butternut,0,0,0,0,0,0
+180,sugar coo,0,0,0,0,0,0
+181,super sour,0,0,0,0,0,0
+182,sweet grape,0,0,0,0,0,0
+183,ice cream,0,0,0,0,0,0
+184,toasted coconut,0,0,0,0,0,0
+185,banana cream,0,0,0,0,0,0
+186,sweet strawberry cap,0,0,0,0,0,0
+187,banana nut bread,0,0,0,0,0,0
+188,yogurt,0,0,0,0,0,0
+189,chocolate g,0,0,0,0,0,0
+190,tfa caramel,0,0,0,0,0,0
+191,passionfruit,0,0,0,0,0,0
+192,banana gone nut,0,0,0,0,0,0
+193,ginger,0,0,0,0,0,0
+194,zzzz,0,0,0,0,0,0
+195,caramel tobacco,0,0,0,0,0,0
+196,sour raspberry,0,0,0,0,0,0
+197,vanilla bean ice crea,0,0,0,0,0,0
+198,molasses,0,0,0,0,0,0
+199,acai berry,0,0,0,0,0,0
+200,strawberry candy,0,0,0,0,0,0
+201,vanilla bean ic,0,0,0,0,0,0
+202,raspberry sweet,0,0,0,0,0,0
+203,sweetener sucralose,0,0,0,0,0,0
+204,la banana cream,0,0,0,0,0,0
+205,cream fresh,0,0,0,0,0,0
+206,a watermelon,0,0,0,0,0,0
+207,strawberry cheescake,0,0,0,0,0,0
+208,blue raspberry,0,0,0,0,0,0
+209,tfa caramel candy,0,0,0,0,0,0
+210,toasted marshmallow,0,0,0,0,0,0
+211,raspberry apple,0,0,0,0,0,0
+212,earl grey tea,0,0,0,0,0,0
+213,tfa,0,0,0,0,0,0
+214,bse,0,0,0,0,0,0
+215,pg m,0,0,0,0,0,0
+216,pumpkin,0,0,0,0,0,0
+217,new york cheesecake cap,0,0,0,0,0,0
+218,blueberry ext,0,0,0,0,0,0
+219,coconut g,0,0,0,0,0,0
+220,strawberry cupcake,0,0,0,0,0,0
+221,biscotti,0,0,0,0,0,0
+222,smoke pipe,0,0,0,0,0,0
+223,pomegranate,0,0,0,0,0,0
+224,fa meringue,0,0,0,0,0,0
+225,coconut ex,0,0,0,0,0,0
+226,turkish,0,0,0,0,0,0
+227,inw raspberry,0,0,0,0,0,0
+228,capella,0,0,0,0,0,0
+229,nectarine,0,0,0,0,0,0
+230,fa marshmallow,0,0,0,0,0,0
+231,strawberry v,0,0,0,0,0,0
+232,peanutbutter,0,0,0,0,0,0
+233,apple sour,0,0,0,0,0,0
+234,raspberry h,0,0,0,0,0,0
+235,wale,0,0,0,0,0,0
+236,fa caramel,0,0,0,0,0,0
+237,coffee,0,0,0,0,0,0
+238,yog,0,0,0,0,0,0
+239,caramel v,0,0,0,0,0,0
+240,caramel candy,0,0,0,0,0,0
+241,blueberry,0,0,0,0,0,0
+242,pie crust,0,0,0,0,0,0
+243,cap vanilla custard,0,0,0,0,0,0
+244,sour apple,0,0,0,0,0,0
+245,creme de menthe,0,0,0,0,0,0
+246,cake batter,0,0,0,0,0,0
+247,honeydew,0,0,0,0,0,0
+248,black licorice,0,0,0,0,0,0
+249,tfa vanilla custard,0,0,0,0,0,0
+250,cinnamon danish,0,0,0,0,0,0
+251,blue raspberry slush,0,0,0,0,0,0
+252,fruity flake,0,0,0,0,0,0
+253,capel,0,0,0,0,0,0
+254,vanilla bean ice cream t,0,0,0,0,0,0
+255,rhubarb custard,0,0,0,0,0,0
+256,e yogurt,0,0,0,0,0,0
+257,shenanigan,0,0,0,0,0,0
+258,strawberry concentrate,0,0,0,0,0,0
+259,caramel cappuccino,0,0,0,0,0,0
+260,caramel,0,0,0,0,0,0
+261,mango,0,0,0,0,0,0
+262,sweetener,0,0,0,0,0,0
+263,berry crunch,0,0,0,0,0,0
+264,rhm,0,0,0,0,0,0
+265,yg,0,0,0,0,0,0
+266,strawberry cap,0,0,0,0,0,0
+267,yougurt,0,0,0,0,0,0
+268,banana,0,0,0,0,0,0
+269,vanilla bean ice,0,0,0,0,0,0
+270,tutti frutti,0,0,0,0,0,0
+271,chocolate,0,0,0,0,0,0
+272,vanilla c,0,0,0,0,0,0
+273,horchata,0,0,0,0,0,0
+274,fruit circle,0,0,0,0,0,0
+275,yun,0,0,0,0,0,0
+276,tfa sweetener,0,0,0,0,0,0
+277,anana cream,0,0,0,0,0,0
+278,hazelnut,0,0,0,0,0,0
+279,e brown sugar,0,0,0,0,0,0
+280,fw,0,0,0,0,0,0
+281,blue raspberry fl,0,0,0,0,0,0
+282,clove,0,0,0,0,0,0
+283,tobacco ab,0,0,0,0,0,0
+284,roope,0,0,0,0,0,0
+285,skittle,0,0,0,0,0,0
+286,caramel cap,0,0,0,0,0,0
+287,red velvet cake,0,0,0,0,0,0
+288,dairy milk,0,0,0,0,0,0
+289,menthol eucalyptus,0,0,0,0,0,0
+290,bacon,0,0,0,0,0,0
+291,cloud,0,0,0,0,0,0
+292,vanilla cupcake,0,0,0,0,0,0
+293,banana g,0,0,0,0,0,0
+294,orange,0,0,0,0,0,0
+295,thug juice,0,0,0,0,0,0
+296,frosted donut,0,0,0,0,0,0
+297,peach juicy,0,0,0,0,0,0
+298,almond,0,0,0,0,0,0
+299,pear,0,0,0,0,0,0
+300,blueberry extra,0,0,0,0,0,0
+301,caramel macchiato,0,0,0,0,0,0
+302,apple green,0,0,0,0,0,0
+303,absinthe,0,0,0,0,0,0
+304,apple,0,0,0,0,0,0
+305,y ac,0,0,0,0,0,0
+306,strawberry cheesecake,0,0,0,0,0,0
+307,dr pepper,0,0,0,0,0,0
+308,yellow color,0,0,0,0,0,0
+309,cap sweet strawberry,0,0,0,0,0,0
+310,eggnog,0,0,0,0,0,0
+311,beer,0,0,0,0,0,0
+312,tangerine,0,0,0,0,0,0
+313,mg nicotine,0,0,0,0,0,0
+314,butter,0,0,0,0,0,0
+315,blue lemonade,0,0,0,0,0,0
+316,sugar cookie cap,0,0,0,0,0,0
+317,caramel original,0,0,0,0,0,0
+318,candy watermelon,0,0,0,0,0,0
+319,graham cracker,0,0,0,0,0,0
+320,butterscotch,0,0,0,0,0,0
+321,pomegrana,0,0,0,0,0,0
+322,ananas,0,0,0,0,0,0
+323,vanilla raspberry,0,0,0,0,0,0
+324,c rum,0,0,0,0,0,0
+325,gummi bear,0,0,0,0,0,0
+326,ginger ale,0,0,0,0,0,0
+327,rew,0,0,0,0,0,0
+328,ripe a,0,0,0,0,0,0
+329,leaf,0,0,0,0,0,0
+330,ripe banana,0,0,0,0,0,0
+331,c custard,0,0,0,0,0,0
+332,lemon meringue pie,0,0,0,0,0,0
+333,greek yogurt,0,0,0,0,0,0
+334,dulce de leche,0,0,0,0,0,0
+335,wintergreen,0,0,0,0,0,0
+336,zebra stripe gum,0,0,0,0,0,0
+337,cookie,0,0,0,0,0,0
+338,cap super sweet,0,0,0,0,0,0
+339,bf,0,0,0,0,0,0
+340,cap sugar cookie,0,0,0,0,0,0
+341,banana coconut,0,0,0,0,0,0
+342,watermelon,0,0,0,0,0,0
+343,cranberry,0,0,0,0,0,0
+344,yummy gummy,0,0,0,0,0,0
+345,tfa vanilla bean ice cream,0,0,0,0,0,0
+346,peppermint,0,0,0,0,0,0
+347,caramel ca,0,0,0,0,0,0
+348,dutch apple pie,0,0,0,0,0,0
+349,zebra stripe,0,0,0,0,0,0
+350,super s,0,0,0,0,0,0
+351,sweet cream,0,0,0,0,0,0
+352,tobacco,0,0,0,0,0,0
+353,fa almond,0,0,0,0,0,0
+354,pink champagne,0,0,0,0,0,0
+355,rex,0,0,0,0,0,0
+356,a raspberry,0,0,0,0,0,0
+357,rhubarb,0,0,0,0,0,0
+358,banana foster,0,0,0,0,0,0
+359,coconut cream,0,0,0,0,0,0
+360,cap butter cream,0,0,0,0,0,0
+361,cap sweet cream,0,0,0,0,0,0
+362,caramel apple,0,0,0,0,0,0
+363,condensed milk,0,0,0,0,0,0
+364,cara,0,0,0,0,0,0
+365,dunhill,0,0,0,0,0,0
+366,cap cinnamon danish,0,0,0,0,0,0
+367,la watermelon,0,0,0,0,0,0
+368,coconut,0,0,0,0,0,0
+369,acetyl pyrazine,0,0,0,0,0,0
+370,banana fo,0,0,0,0,0,0
+371,papaya,0,0,0,0,0,0
+372,boysenberry,0,0,0,0,0,0
+373,cap cinnamon danish swirl,0,0,0,0,0,0
+374,b custard,0,0,0,0,0,0
+375,cap vanilla bean ice cream,0,0,0,0,0,0
+376,la peach,0,0,0,0,0,0
+377,coconut milk,0,0,0,0,0,0
+378,raspberry one,0,0,0,0,0,0
+379,pumpkin spice,0,0,0,0,0,0
+380,oko,0,0,0,0,0,0
+381,super sweet,0,0,0,0,0,0
+382,key lime pie,0,0,0,0,0,0
+383,frontier,0,0,0,0,0,0
+384,vanilla custard cream,0,0,0,0,0,0
+385,strawberry cheese cake,0,0,0,0,0,0
+386,tobacco flavour,0,0,0,0,0,0
+387,marshmallow,0,0,0,0,0,0
+388,zooch,0,0,0,0,0,0
+389,vanillin,0,0,0,0,0,0
+390,e strawberry,0,0,0,0,0,0
+391,blackber,0,0,0,0,0,0
+392,strawberry b,0,0,0,0,0,0
+393,butter toffee,0,0,0,0,0,0
+394,fw hazelnut,0,0,0,0,0,0
+395,black cherry,0,0,0,0,0,0
+396,fw yellow cake,0,0,0,0,0,0
+397,afternoon delight,0,0,0,0,0,0
+398,room temp,0,0,0,0,0,0
+399,chocolate hazelnut,0,0,0,0,0,0
+400,strawberry c,0,0,0,0,0,0
+401,em sweete,0,0,0,0,0,0
+402,chai tea,0,0,0,0,0,0
+403,rice krispies,0,0,0,0,0,0
+404,strawberry ca,0,0,0,0,0,0
+405,jungle juice,0,0,0,0,0,0
+406,pineapple,0,0,0,0,0,0
+407,capella cool mint,0,0,0,0,0,0
+408,n nut,0,0,0,0,0,0
+409,fa bavarian cream,0,0,0,0,0,0
+410,lemon,0,0,0,0,0,0
+411,lacaramel,0,0,0,0,0,0
+412,sassafras,0,0,0,0,0,0
+413,key l,0,0,0,0,0,0
+414,wild cherry,0,0,0,0,0,0
+415,apricot,0,0,0,0,0,0
+416,strawberry milk,0,0,0,0,0,0
+417,peach,0,0,0,0,0,0
+418,e sucralose,0,0,0,0,0,0
+419,beer hang,0,0,0,0,0,0
+420,tres lech,0,0,0,0,0,0
+421,blueberry ice,0,0,0,0,0,0
+422,apple ca,0,0,0,0,0,0
+423,peanut but,0,0,0,0,0,0
+424,peanut,0,0,0,0,0,0
+425,tfa sour,0,0,0,0,0,0
+426,blackcurrant,0,0,0,0,0,0
+427,e custard,0,0,0,0,0,0
+428,lemonade,0,0,0,0,0,0
+429,cherry,0,0,0,0,0,0
+430,root,0,0,0,0,0,0
+431,menthol blend,0,0,0,0,0,0
+432,strawberry sweet,0,0,0,0,0,0
+433,strawberry tf,0,0,0,0,0,0
+434,candy corn,0,0,0,0,0,0
+435,titty,0,0,0,0,0,0
+436,coca,0,0,0,0,0,0
+437,irish cream,0,0,0,0,0,0
+438,coconut vi,0,0,0,0,0,0
+439,coconut extra,0,0,0,0,0,0
+440,brown sugar,0,0,0,0,0,0
+441,any one,0,0,0,0,0,0
+442,amaretto,0,0,0,0,0,0
+443,s raspberry,0,0,0,0,0,0
+444,la caramel,0,0,0,0,0,0
+445,lkj,0,0,0,0,0,0
+446,custard,0,0,0,0,0,0
+447,tobacco blend,0,0,0,0,0,0
+448,d cookie,0,0,0,0,0,0
+449,cooling agent,0,0,0,0,0,0
+450,lemon sicily,0,0,0,0,0,0
+451,lychee,0,0,0,0,0,0
+452,guava,0,0,0,0,0,0
+453,kiwi double,0,0,0,0,0,0
+454,horchata cap,0,0,0,0,0,0
+455,hawk sauce,0,0,0,0,0,0
+456,green apple,0,0,0,0,0,0
+457,maple syrup,0,0,0,0,0,0
+458,coconut cream pie,0,0,0,0,0,0
+459,cherry limeade,0,0,0,0,0,0
+460,c r,0,0,0,0,0,0
+461,bavarian cream,0,0,0,0,0,0
+462,banana split,0,0,0,0,0,0
