@@ -1,0 +1,462 @@
+,Flavor Name,Positive,Negative,Total,Difference,Percent_Positive,Percent_Negative
+279,e brown sugar,0,0,0,0,0,0
+420,tres lech,0,0,0,0,0,0
+315,blue lemonade,0,0,0,0,0,0
+184,toasted coconut,0,0,0,0,0,0
+296,frosted donut,0,0,0,0,0,0
+443,s raspberry,0,0,0,0,0,0
+302,apple green,0,0,0,0,0,0
+297,peach juicy,0,0,0,0,0,0
+324,c rum,0,0,0,0,0,0
+259,caramel cappuccino,0,0,0,0,0,0
+288,dairy milk,0,0,0,0,0,0
+93,cap vanilla bean ice,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=0.95975334509295585, pvalue=0.33717936825401251)","RanksumsResult(statistic=0.90726683403318487, pvalue=0.3642657083570856)","RanksumsResult(statistic=1.0009927466399189, pvalue=0.31683031508867787)","RanksumsResult(statistic=1.0272360021698044, pvalue=0.30430934927643172)","RanksumsResult(statistic=1.023486965665535, pvalue=0.30607765959057021)"
+132,coconut ext,"RanksumsResult(statistic=0.69732078979410073, pvalue=0.4856020602608091)","RanksumsResult(statistic=0.64858331523859902, pvalue=0.51660774280805732)","RanksumsResult(statistic=0.71231693581117816, pvalue=0.47626853902974786)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.73481115483679438, pvalue=0.462454512620734)"
+360,cap butter cream,0,0,0,0,0,0
+438,coconut vi,0,0,0,0,0,0
+258,strawberry concentrate,0,0,0,0,0,0
+139,strawberry capella,"RanksumsResult(statistic=0.69732078979410073, pvalue=0.4856020602608091)","RanksumsResult(statistic=0.64858331523859902, pvalue=0.51660774280805732)","RanksumsResult(statistic=0.71231693581117816, pvalue=0.47626853902974786)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.68982271678556206, pvalue=0.49030568107691219)"
+227,inw raspberry,0,0,0,0,0,0
+205,cream fresh,0,0,0,0,0,0
+113,menthol crystal,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=0.95975334509295585, pvalue=0.33717936825401251)","RanksumsResult(statistic=0.90726683403318487, pvalue=0.3642657083570856)","RanksumsResult(statistic=0.82103899443498962, pvalue=0.41162405713954453)","RanksumsResult(statistic=0.88477261500756865, pvalue=0.37627928216718565)","RanksumsResult(statistic=0.88477261500756865, pvalue=0.37627928216718565)"
+18,butter caramel,"RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.589591477810208, pvalue=0.11192691928809488)","RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+3,fe lemon,"RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.702062572938289, pvalue=0.088743639010652575)","RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+270,tutti frutti,0,0,0,0,0,0
+225,coconut ex,0,0,0,0,0,0
+374,b custard,0,0,0,0,0,0
+399,chocolate hazelnut,0,0,0,0,0,0
+65,tfa blueberry extra,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.1359580607936157, pvalue=0.25597411696398742)","RanksumsResult(statistic=1.2109387908790028, pvalue=0.22591886433785779)","RanksumsResult(statistic=1.2409310829131577, pvalue=0.2146312090407505)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+67,maraschino cherry,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.1359580607936157, pvalue=0.25597411696398742)","RanksumsResult(statistic=1.2109387908790028, pvalue=0.22591886433785779)","RanksumsResult(statistic=1.2409310829131577, pvalue=0.2146312090407505)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+250,cinnamon danish,0,0,0,0,0,0
+394,fw hazelnut,0,0,0,0,0,0
+230,fa marshmallow,0,0,0,0,0,0
+114,cake yellow,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=0.95975334509295585, pvalue=0.33717936825401251)","RanksumsResult(statistic=0.90726683403318487, pvalue=0.3642657083570856)","RanksumsResult(statistic=0.82103899443498962, pvalue=0.41162405713954453)","RanksumsResult(statistic=0.86977646899049121, pvalue=0.384422573292173)","RanksumsResult(statistic=0.86977646899049121, pvalue=0.384422573292173)"
+375,cap vanilla bean ice cream,0,0,0,0,0,0
+111,tfa sweet cream,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=0.95975334509295585, pvalue=0.33717936825401251)","RanksumsResult(statistic=0.90726683403318487, pvalue=0.3642657083570856)","RanksumsResult(statistic=0.82103899443498962, pvalue=0.41162405713954453)","RanksumsResult(statistic=0.88477261500756865, pvalue=0.37627928216718565)","RanksumsResult(statistic=0.88477261500756865, pvalue=0.37627928216718565)"
+39,graham crust,"RanksumsResult(statistic=1.3983906160924708, pvalue=0.1619957995507868)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.3908925430839321, pvalue=0.16425801438537213)","RanksumsResult(statistic=1.4546261636565112, pvalue=0.14577278371258162)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+411,lacaramel,0,0,0,0,0,0
+152,cap harvest berry,"RanksumsResult(statistic=0.47612763604220859, pvalue=0.63398344944147633)","RanksumsResult(statistic=0.64858331523859902, pvalue=0.51660774280805732)","RanksumsResult(statistic=0.56985354864894255, pvalue=0.56877703266601543)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)"
+384,vanilla custard cream,0,0,0,0,0,0
+14,black honey tobacco,"RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.6233328063486323, pvalue=0.10451828015496789)","RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+97,strawberry del,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=0.95975334509295585, pvalue=0.33717936825401251)","RanksumsResult(statistic=0.90726683403318487, pvalue=0.3642657083570856)","RanksumsResult(statistic=1.0009927466399189, pvalue=0.31683031508867787)","RanksumsResult(statistic=0.9972437101356495, pvalue=0.31864622905548234)","RanksumsResult(statistic=0.9972437101356495, pvalue=0.31864622905548234)"
+266,strawberry cap,0,0,0,0,0,0
+133,vienna cream,"RanksumsResult(statistic=0.69732078979410073, pvalue=0.4856020602608091)","RanksumsResult(statistic=0.64858331523859902, pvalue=0.51660774280805732)","RanksumsResult(statistic=0.71231693581117816, pvalue=0.47626853902974786)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.7273130818282556, pvalue=0.46703418609470215)"
+207,strawberry cheescake,0,0,0,0,0,0
+366,cap cinnamon danish,0,0,0,0,0,0
+159,coconut extract,"RanksumsResult(statistic=0.47612763604220859, pvalue=0.63398344944147633)","RanksumsResult(statistic=0.64858331523859902, pvalue=0.51660774280805732)","RanksumsResult(statistic=0.56985354864894255, pvalue=0.56877703266601543)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.5323631836062489, pvalue=0.59447447902041417)"
+4,caramel cream,"RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.6945644999297502, pvalue=0.090158066266032205)","RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+300,blueberry extra,0,0,0,0,0,0
+153,cheesecake graham crust,"RanksumsResult(statistic=0.47612763604220859, pvalue=0.63398344944147633)","RanksumsResult(statistic=0.64858331523859902, pvalue=0.51660774280805732)","RanksumsResult(statistic=0.56985354864894255, pvalue=0.56877703266601543)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)"
+361,cap sweet cream,0,0,0,0,0,0
+222,smoke pipe,0,0,0,0,0,0
+128,la cream cheese icing,"RanksumsResult(statistic=0.69732078979410073, pvalue=0.4856020602608091)","RanksumsResult(statistic=0.64858331523859902, pvalue=0.51660774280805732)","RanksumsResult(statistic=0.71231693581117816, pvalue=0.47626853902974786)","RanksumsResult(statistic=0.82103899443498962, pvalue=0.41162405713954453)","RanksumsResult(statistic=0.76480344687094926, pvalue=0.44438859496422256)","RanksumsResult(statistic=0.76480344687094926, pvalue=0.44438859496422256)"
+345,tfa vanilla bean ice cream,0,0,0,0,0,0
+316,sugar cookie cap,0,0,0,0,0,0
+148,blue raspberry cotton candy,"RanksumsResult(statistic=0.69732078979410073, pvalue=0.4856020602608091)","RanksumsResult(statistic=0.64858331523859902, pvalue=0.51660774280805732)","RanksumsResult(statistic=0.56985354864894255, pvalue=0.56877703266601543)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.61484198670017487, pvalue=0.53865907807533864)"
+289,menthol eucalyptus,0,0,0,0,0,0
+195,caramel tobacco,0,0,0,0,0,0
+344,yummy gummy,0,0,0,0,0,0
+70,raspberry g,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.1359580607936157, pvalue=0.25597411696398742)","RanksumsResult(statistic=1.2109387908790028, pvalue=0.22591886433785779)","RanksumsResult(statistic=1.2409310829131577, pvalue=0.2146312090407505)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+412,sassafras,0,0,0,0,0,0
+210,toasted marshmallow,0,0,0,0,0,0
+172,blueberry candy,0,0,0,0,0,0
+124,tfa vanilla swirl,"RanksumsResult(statistic=0.69732078979410073, pvalue=0.4856020602608091)","RanksumsResult(statistic=0.64858331523859902, pvalue=0.51660774280805732)","RanksumsResult(statistic=0.90726683403318487, pvalue=0.3642657083570856)","RanksumsResult(statistic=0.82103899443498962, pvalue=0.41162405713954453)","RanksumsResult(statistic=0.79104670240083474, pvalue=0.42891673898803528)","RanksumsResult(statistic=0.78729766589656536, pvalue=0.43110763573410116)"
+160,strawberry conc,"RanksumsResult(statistic=0.47612763604220859, pvalue=0.63398344944147633)","RanksumsResult(statistic=0.64858331523859902, pvalue=0.51660774280805732)","RanksumsResult(statistic=0.56985354864894255, pvalue=0.56877703266601543)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.49112378205928603, pvalue=0.62333890191738828)"
+90,sweet cream cap,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=0.95975334509295585, pvalue=0.33717936825401251)","RanksumsResult(statistic=1.1359580607936157, pvalue=0.25597411696398742)","RanksumsResult(statistic=1.0009927466399189, pvalue=0.31683031508867787)","RanksumsResult(statistic=1.0797225132295754, pvalue=0.28026576549398885)","RanksumsResult(statistic=1.0497302211954205, pvalue=0.29384216497767091)"
+373,cap cinnamon danish swirl,0,0,0,0,0,0
+255,rhubarb custard,0,0,0,0,0,0
+218,blueberry ext,0,0,0,0,0,0
+432,strawberry sweet,0,0,0,0,0,0
+450,lemon sicily,0,0,0,0,0,0
+433,strawberry tf,0,0,0,0,0,0
+151,cinnamon sugar cookie,"RanksumsResult(statistic=0.69732078979410073, pvalue=0.4856020602608091)","RanksumsResult(statistic=0.64858331523859902, pvalue=0.51660774280805732)","RanksumsResult(statistic=0.56985354864894255, pvalue=0.56877703266601543)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.59234776767455866, pvalue=0.55361773516328316)"
+274,fruit circle,0,0,0,0,0,0
+330,ripe banana,0,0,0,0,0,0
+249,tfa vanilla custard,0,0,0,0,0,0
+88,raspberry r,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=0.95975334509295585, pvalue=0.33717936825401251)","RanksumsResult(statistic=1.1359580607936157, pvalue=0.25597411696398742)","RanksumsResult(statistic=1.0009927466399189, pvalue=0.31683031508867787)","RanksumsResult(statistic=1.0797225132295754, pvalue=0.28026576549398885)","RanksumsResult(statistic=1.0647263672124978, pvalue=0.28699977451573233)"
+317,caramel original,0,0,0,0,0,0
+7,tfa peanut butter,"RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.6720702809041341, pvalue=0.0945104641377527)","RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+186,sweet strawberry cap,0,0,0,0,0,0
+179,vanilla butternut,0,0,0,0,0,0
+217,new york cheesecake cap,0,0,0,0,0,0
+202,raspberry sweet,0,0,0,0,0,0
+439,coconut extra,0,0,0,0,0,0
+167,chocolate cream,0,0,0,0,0,0
+150,root beer,"RanksumsResult(statistic=0.69732078979410073, pvalue=0.4856020602608091)","RanksumsResult(statistic=0.64858331523859902, pvalue=0.51660774280805732)","RanksumsResult(statistic=0.56985354864894255, pvalue=0.56877703266601543)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.59984584068309743, pvalue=0.54860897960566912)"
+455,hawk sauce,0,0,0,0,0,0
+306,strawberry cheesecake,0,0,0,0,0,0
+20,vanilla swirl,"RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.5745953317931307, pvalue=0.11534988107482974)","RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+402,chai tea,0,0,0,0,0,0
+174,dragon fruit,0,0,0,0,0,0
+62,strawberry d,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.2559272289302352, pvalue=0.20914235532701342)","RanksumsResult(statistic=1.2409310829131577, pvalue=0.2146312090407505)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+183,ice cream,0,0,0,0,0,0
+387,marshmallow,0,0,0,0,0,0
+34,custard cream,"RanksumsResult(statistic=1.3983906160924708, pvalue=0.1619957995507868)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.4733713461778579, pvalue=0.14065093220770758)","RanksumsResult(statistic=1.4546261636565112, pvalue=0.14577278371258162)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+33,vanilla bean ice cream,"RanksumsResult(statistic=1.3983906160924708, pvalue=0.1619957995507868)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.4733713461778579, pvalue=0.14065093220770758)","RanksumsResult(statistic=1.4546261636565112, pvalue=0.14577278371258162)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+197,vanilla bean ice crea,0,0,0,0,0,0
+9,strawberry cloud,"RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.6570741348870566, pvalue=0.097504487706718934)","RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+131,cinnamon roll,"RanksumsResult(statistic=0.69732078979410073, pvalue=0.4856020602608091)","RanksumsResult(statistic=0.64858331523859902, pvalue=0.51660774280805732)","RanksumsResult(statistic=0.71231693581117816, pvalue=0.47626853902974786)","RanksumsResult(statistic=0.82103899443498962, pvalue=0.41162405713954453)","RanksumsResult(statistic=0.74230922784533304, pvalue=0.45790000212435189)","RanksumsResult(statistic=0.74230922784533304, pvalue=0.45790000212435189)"
+99,ry double,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=0.95975334509295585, pvalue=0.33717936825401251)","RanksumsResult(statistic=0.90726683403318487, pvalue=0.3642657083570856)","RanksumsResult(statistic=1.0009927466399189, pvalue=0.31683031508867787)","RanksumsResult(statistic=0.98599660062284133, pvalue=0.32413478099007742)","RanksumsResult(statistic=0.98224756411857206, pvalue=0.32597790021481621)"
+461,bavarian cream,0,0,0,0,0,0
+440,brown sugar,0,0,0,0,0,0
+15,aromatic,"RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.6120856968358244, pvalue=0.10694329275932321)","RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+248,black licorice,0,0,0,0,0,0
+104,rice pudding,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=0.95975334509295585, pvalue=0.33717936825401251)","RanksumsResult(statistic=0.90726683403318487, pvalue=0.3642657083570856)","RanksumsResult(statistic=1.0009927466399189, pvalue=0.31683031508867787)","RanksumsResult(statistic=0.94100816257160902, pvalue=0.34670067620273215)","RanksumsResult(statistic=0.94475719907587841, pvalue=0.34478284765318168)"
+400,strawberry c,0,0,0,0,0,0
+17,yellow cake,"RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.6008385873230162, pvalue=0.10941267455780002)","RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+130,whipped cream,"RanksumsResult(statistic=0.69732078979410073, pvalue=0.4856020602608091)","RanksumsResult(statistic=0.64858331523859902, pvalue=0.51660774280805732)","RanksumsResult(statistic=0.71231693581117816, pvalue=0.47626853902974786)","RanksumsResult(statistic=0.82103899443498962, pvalue=0.41162405713954453)","RanksumsResult(statistic=0.75355633735814109, pvalue=0.45111567060662372)","RanksumsResult(statistic=0.75355633735814109, pvalue=0.45111567060662372)"
+180,sugar coo,0,0,0,0,0,0
+163,cinnamon,0,0,0,0,0,0
+144,peanut butter cookie,"RanksumsResult(statistic=0.69732078979410073, pvalue=0.4856020602608091)","RanksumsResult(statistic=0.64858331523859902, pvalue=0.51660774280805732)","RanksumsResult(statistic=0.71231693581117816, pvalue=0.47626853902974786)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.64483427873432975, pvalue=0.51903458535093738)"
+71,cheesecake,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.1359580607936157, pvalue=0.25597411696398742)","RanksumsResult(statistic=1.2109387908790028, pvalue=0.22591886433785779)","RanksumsResult(statistic=1.2409310829131577, pvalue=0.2146312090407505)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+263,berry crunch,0,0,0,0,0,0
+100,menthol liquid,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=0.95975334509295585, pvalue=0.33717936825401251)","RanksumsResult(statistic=0.90726683403318487, pvalue=0.3642657083570856)","RanksumsResult(statistic=1.0009927466399189, pvalue=0.31683031508867787)","RanksumsResult(statistic=0.97474949111003328, pvalue=0.32968453692657596)","RanksumsResult(statistic=0.96725141810149462, pvalue=0.33341836360671895)"
+437,irish cream,0,0,0,0,0,0
+334,dulce de leche,0,0,0,0,0,0
+178,strawberry r,0,0,0,0,0,0
+212,earl grey tea,0,0,0,0,0,0
+269,vanilla bean ice,0,0,0,0,0,0
+201,vanilla bean ic,0,0,0,0,0,0
+430,root,0,0,0,0,0,0
+115,vanilla bean i,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=0.95975334509295585, pvalue=0.33717936825401251)","RanksumsResult(statistic=0.90726683403318487, pvalue=0.3642657083570856)","RanksumsResult(statistic=0.82103899443498962, pvalue=0.41162405713954453)","RanksumsResult(statistic=0.86227839598195255, pvalue=0.38853433822406724)","RanksumsResult(statistic=0.86227839598195255, pvalue=0.38853433822406724)"
+319,graham cracker,0,0,0,0,0,0
+83,blueberry lemonade,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=0.95975334509295585, pvalue=0.33717936825401251)","RanksumsResult(statistic=1.1359580607936157, pvalue=0.25597411696398742)","RanksumsResult(statistic=1.1359580607936157, pvalue=0.25597411696398742)","RanksumsResult(statistic=1.0797225132295754, pvalue=0.28026576549398885)","RanksumsResult(statistic=1.1022167322551915, pvalue=0.27036745938505502)"
+277,anana cream,0,0,0,0,0,0
+185,banana cream,0,0,0,0,0,0
+326,ginger ale,0,0,0,0,0,0
+58,jackfruit,"RanksumsResult(statistic=1.3983906160924708, pvalue=0.1619957995507868)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.297166630477198, pvalue=0.19457385962529061)","RanksumsResult(statistic=1.2409310829131577, pvalue=0.2146312090407505)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+234,raspberry h,0,0,0,0,0,0
+49,waffle cap,"RanksumsResult(statistic=1.3983906160924708, pvalue=0.1619957995507868)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.3908925430839321, pvalue=0.16425801438537213)","RanksumsResult(statistic=1.3571512145455078, pvalue=0.17473316824804863)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+351,sweet cream,0,0,0,0,0,0
+362,caramel apple,0,0,0,0,0,0
+307,dr pepper,0,0,0,0,0,0
+241,blueberry,0,0,0,0,0,0
+231,strawberry v,0,0,0,0,0,0
+278,hazelnut,0,0,0,0,0,0
+287,red velvet cake,0,0,0,0,0,0
+421,blueberry ice,0,0,0,0,0,0
+204,la banana cream,0,0,0,0,0,0
+191,passionfruit,0,0,0,0,0,0
+47,fa cheesecake,"RanksumsResult(statistic=1.3983906160924708, pvalue=0.1619957995507868)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.3908925430839321, pvalue=0.16425801438537213)","RanksumsResult(statistic=1.3871435065796627, pvalue=0.16539800785016157)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+257,shenanigan,0,0,0,0,0,0
+175,mandarin,0,0,0,0,0,0
+246,cake batter,0,0,0,0,0,0
+242,pie crust,0,0,0,0,0,0
+271,chocolate,0,0,0,0,0,0
+146,caramel c,"RanksumsResult(statistic=0.69732078979410073, pvalue=0.4856020602608091)","RanksumsResult(statistic=0.64858331523859902, pvalue=0.51660774280805732)","RanksumsResult(statistic=0.56985354864894255, pvalue=0.56877703266601543)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.62983813271725231, pvalue=0.52880049388311634)"
+56,cappuccino,"RanksumsResult(statistic=1.3983906160924708, pvalue=0.1619957995507868)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.297166630477198, pvalue=0.19457385962529061)","RanksumsResult(statistic=1.3046647034857368, pvalue=0.19200704537585589)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+77,waffle,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.1359580607936157, pvalue=0.25597411696398742)","RanksumsResult(statistic=1.1359580607936157, pvalue=0.25597411696398742)","RanksumsResult(statistic=1.1434561338021545, pvalue=0.25284925762974897)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+447,tobacco blend,0,0,0,0,0,0
+390,e strawberry,0,0,0,0,0,0
+171,dragonfruit,0,0,0,0,0,0
+75,strawberry ripe,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.1359580607936157, pvalue=0.25597411696398742)","RanksumsResult(statistic=1.1359580607936157, pvalue=0.25597411696398742)","RanksumsResult(statistic=1.1622013163235012, pvalue=0.24515370011098814)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+147,banana cr,"RanksumsResult(statistic=0.69732078979410073, pvalue=0.4856020602608091)","RanksumsResult(statistic=0.64858331523859902, pvalue=0.51660774280805732)","RanksumsResult(statistic=0.56985354864894255, pvalue=0.56877703266601543)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.62234005970871353, pvalue=0.53371828514992559)"
+32,rice krispy treat,"RanksumsResult(statistic=1.3983906160924708, pvalue=0.1619957995507868)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.4921165286992049, pvalue=0.13566859953458379)","RanksumsResult(statistic=1.4921165286992049, pvalue=0.13566859953458379)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+395,black cherry,0,0,0,0,0,0
+73,cream,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.1359580607936157, pvalue=0.25597411696398742)","RanksumsResult(statistic=1.2109387908790028, pvalue=0.22591886433785779)","RanksumsResult(statistic=1.1771974623405788, pvalue=0.23911670130202733)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+448,d cookie,0,0,0,0,0,0
+392,strawberry b,0,0,0,0,0,0
+329,leaf,0,0,0,0,0,0
+405,jungle juice,0,0,0,0,0,0
+21,cola,"RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.5670972587845919, pvalue=0.1170919598504692)","RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+16,yogurt v,"RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.6008385873230162, pvalue=0.10941267455780002)","RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+59,e cardamom,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.297166630477198, pvalue=0.19457385962529061)","RanksumsResult(statistic=1.2409310829131577, pvalue=0.2146312090407505)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+409,fa bavarian cream,0,0,0,0,0,0
+340,cap sugar cookie,0,0,0,0,0,0
+348,dutch apple pie,0,0,0,0,0,0
+281,blue raspberry fl,0,0,0,0,0,0
+137,tart sour,"RanksumsResult(statistic=0.69732078979410073, pvalue=0.4856020602608091)","RanksumsResult(statistic=0.64858331523859902, pvalue=0.51660774280805732)","RanksumsResult(statistic=0.71231693581117816, pvalue=0.47626853902974786)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.68982271678556206, pvalue=0.49030568107691219)"
+161,chestnut,"RanksumsResult(statistic=0.47612763604220859, pvalue=0.63398344944147633)","RanksumsResult(statistic=0.64858331523859902, pvalue=0.51660774280805732)","RanksumsResult(statistic=0.56985354864894255, pvalue=0.56877703266601543)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.49112378205928603, pvalue=0.62333890191738828)"
+459,cherry limeade,0,0,0,0,0,0
+155,orange cream,"RanksumsResult(statistic=0.47612763604220859, pvalue=0.63398344944147633)","RanksumsResult(statistic=0.64858331523859902, pvalue=0.51660774280805732)","RanksumsResult(statistic=0.56985354864894255, pvalue=0.56877703266601543)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.56235547564040378, pvalue=0.57387384826079568)"
+5,menthol,"RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.6870664269212114, pvalue=0.091590579762884441)","RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+415,apricot,0,0,0,0,0,0
+226,turkish,0,0,0,0,0,0
+84,cherry blossom,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=0.95975334509295585, pvalue=0.33717936825401251)","RanksumsResult(statistic=1.1359580607936157, pvalue=0.25597411696398742)","RanksumsResult(statistic=1.0009927466399189, pvalue=0.31683031508867787)","RanksumsResult(statistic=1.0797225132295754, pvalue=0.28026576549398885)","RanksumsResult(statistic=1.0947186592466527, pvalue=0.27363991137332411)"
+239,caramel v,0,0,0,0,0,0
+446,custard,0,0,0,0,0,0
+337,cookie,0,0,0,0,0,0
+189,chocolate g,0,0,0,0,0,0
+358,banana foster,0,0,0,0,0,0
+370,banana fo,0,0,0,0,0,0
+85,strawberry kiwi,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=0.95975334509295585, pvalue=0.33717936825401251)","RanksumsResult(statistic=1.1359580607936157, pvalue=0.25597411696398742)","RanksumsResult(statistic=1.0009927466399189, pvalue=0.31683031508867787)","RanksumsResult(statistic=1.0797225132295754, pvalue=0.28026576549398885)","RanksumsResult(statistic=1.0872205862381141, pvalue=0.27693933498272394)"
+208,blue raspberry,0,0,0,0,0,0
+156,raspberry,"RanksumsResult(statistic=0.47612763604220859, pvalue=0.63398344944147633)","RanksumsResult(statistic=0.64858331523859902, pvalue=0.51660774280805732)","RanksumsResult(statistic=0.56985354864894255, pvalue=0.56877703266601543)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.55485740263186512, pvalue=0.57899220027080145)"
+245,creme de menthe,0,0,0,0,0,0
+221,biscotti,0,0,0,0,0,0
+76,after dark,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.1359580607936157, pvalue=0.25597411696398742)","RanksumsResult(statistic=1.1359580607936157, pvalue=0.25597411696398742)","RanksumsResult(statistic=1.1622013163235012, pvalue=0.24515370011098814)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+66,french vanilla,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.1359580607936157, pvalue=0.25597411696398742)","RanksumsResult(statistic=1.2109387908790028, pvalue=0.22591886433785779)","RanksumsResult(statistic=1.2409310829131577, pvalue=0.2146312090407505)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+452,guava,0,0,0,0,0,0
+410,lemon,0,0,0,0,0,0
+53,vanilla custard v,"RanksumsResult(statistic=1.3983906160924708, pvalue=0.1619957995507868)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.297166630477198, pvalue=0.19457385962529061)","RanksumsResult(statistic=1.3234098860070838, pvalue=0.18569910594122541)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+154,rice krispy,"RanksumsResult(statistic=0.47612763604220859, pvalue=0.63398344944147633)","RanksumsResult(statistic=0.64858331523859902, pvalue=0.51660774280805732)","RanksumsResult(statistic=0.56985354864894255, pvalue=0.56877703266601543)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.56985354864894255, pvalue=0.56877703266601543)"
+416,strawberry milk,0,0,0,0,0,0
+272,vanilla c,0,0,0,0,0,0
+157,vanilla custard,"RanksumsResult(statistic=0.47612763604220859, pvalue=0.63398344944147633)","RanksumsResult(statistic=0.64858331523859902, pvalue=0.51660774280805732)","RanksumsResult(statistic=0.56985354864894255, pvalue=0.56877703266601543)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.54735932962332634, pvalue=0.58413189073158411)"
+352,tobacco,0,0,0,0,0,0
+427,e custard,0,0,0,0,0,0
+429,cherry,0,0,0,0,0,0
+55,apple pie,"RanksumsResult(statistic=1.3983906160924708, pvalue=0.1619957995507868)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.297166630477198, pvalue=0.19457385962529061)","RanksumsResult(statistic=1.3121627764942756, pvalue=0.18946521837802044)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+428,lemonade,0,0,0,0,0,0
+237,coffee,0,0,0,0,0,0
+369,acetyl pyrazine,0,0,0,0,0,0
+0,cap vanilla custard v,"RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.7245567919639051, pvalue=0.084607375857422715)","RanksumsResult(statistic=1.7245567919639051, pvalue=0.084607375857422715)","RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+177,peanut butter chocolate,0,0,0,0,0,0
+454,horchata cap,0,0,0,0,0,0
+444,la caramel,0,0,0,0,0,0
+120,salted caramel,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=0.95975334509295585, pvalue=0.33717936825401251)","RanksumsResult(statistic=0.90726683403318487, pvalue=0.3642657083570856)","RanksumsResult(statistic=0.82103899443498962, pvalue=0.41162405713954453)","RanksumsResult(statistic=0.8247880309392589, pvalue=0.40949194307002956)","RanksumsResult(statistic=0.8247880309392589, pvalue=0.40949194307002956)"
+331,c custard,0,0,0,0,0,0
+365,dunhill,0,0,0,0,0,0
+385,strawberry cheese cake,0,0,0,0,0,0
+203,sweetener sucralose,0,0,0,0,0,0
+102,freckled lemonade,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=0.95975334509295585, pvalue=0.33717936825401251)","RanksumsResult(statistic=0.90726683403318487, pvalue=0.3642657083570856)","RanksumsResult(statistic=1.0009927466399189, pvalue=0.31683031508867787)","RanksumsResult(statistic=0.94100816257160902, pvalue=0.34670067620273215)","RanksumsResult(statistic=0.96725141810149462, pvalue=0.33341836360671895)"
+254,vanilla bean ice cream t,0,0,0,0,0,0
+26,strawberrybanana,"RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.5258578572376291, pvalue=0.12704526800681268)","RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+96,hard candy,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=0.95975334509295585, pvalue=0.33717936825401251)","RanksumsResult(statistic=0.90726683403318487, pvalue=0.3642657083570856)","RanksumsResult(statistic=1.0009927466399189, pvalue=0.31683031508867787)","RanksumsResult(statistic=1.0047417831441883, pvalue=0.31502120302926429)","RanksumsResult(statistic=1.0047417831441883, pvalue=0.31502120302926429)"
+10,liquid barn,"RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.6495760618785178, pvalue=0.099029674397828102)","RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+40,zen garden,"RanksumsResult(statistic=1.3983906160924708, pvalue=0.1619957995507868)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.3908925430839321, pvalue=0.16425801438537213)","RanksumsResult(statistic=1.4208848351180869, pvalue=0.15535024234365868)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+359,coconut cream,0,0,0,0,0,0
+356,a raspberry,0,0,0,0,0,0
+122,grapefruit,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=0.64858331523859902, pvalue=0.51660774280805732)","RanksumsResult(statistic=0.90726683403318487, pvalue=0.3642657083570856)","RanksumsResult(statistic=0.82103899443498962, pvalue=0.41162405713954453)","RanksumsResult(statistic=0.80979188492218146, pvalue=0.41805979742528321)","RanksumsResult(statistic=0.80604284841791218, pvalue=0.4202181431996207)"
+398,room temp,0,0,0,0,0,0
+364,cara,0,0,0,0,0,0
+284,roope,0,0,0,0,0,0
+166,vanilla,0,0,0,0,0,0
+45,citric acid,"RanksumsResult(statistic=1.3983906160924708, pvalue=0.1619957995507868)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.3908925430839321, pvalue=0.16425801438537213)","RanksumsResult(statistic=1.3871435065796627, pvalue=0.16539800785016157)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+343,cranberry,0,0,0,0,0,0
+413,key l,0,0,0,0,0,0
+268,banana,0,0,0,0,0,0
+386,tobacco flavour,0,0,0,0,0,0
+213,tfa,0,0,0,0,0,0
+215,pg m,0,0,0,0,0,0
+35,koolad,"RanksumsResult(statistic=1.3983906160924708, pvalue=0.1619957995507868)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.4508771271522418, pvalue=0.14681407805657296)","RanksumsResult(statistic=1.4546261636565112, pvalue=0.14577278371258162)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+117,key lime,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=0.95975334509295585, pvalue=0.33717936825401251)","RanksumsResult(statistic=0.90726683403318487, pvalue=0.3642657083570856)","RanksumsResult(statistic=0.82103899443498962, pvalue=0.41162405713954453)","RanksumsResult(statistic=0.84728224996487511, pvalue=0.3968378178508235)","RanksumsResult(statistic=0.84353321346060572, pvalue=0.39893029842258454)"
+290,bacon,0,0,0,0,0,0
+304,apple,0,0,0,0,0,0
+382,key lime pie,0,0,0,0,0,0
+134,spearmint,"RanksumsResult(statistic=0.69732078979410073, pvalue=0.4856020602608091)","RanksumsResult(statistic=0.64858331523859902, pvalue=0.51660774280805732)","RanksumsResult(statistic=0.71231693581117816, pvalue=0.47626853902974786)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.68982271678556206, pvalue=0.49030568107691219)"
+313,mg nicotine,0,0,0,0,0,0
+460,c r,0,0,0,0,0,0
+282,clove,0,0,0,0,0,0
+38,koolada,"RanksumsResult(statistic=1.3983906160924708, pvalue=0.1619957995507868)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.4508771271522418, pvalue=0.14681407805657296)","RanksumsResult(statistic=1.4546261636565112, pvalue=0.14577278371258162)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+28,venom,"RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.5108617112205516, pvalue=0.13082368787459503)","RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+94,reven,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=0.95975334509295585, pvalue=0.33717936825401251)","RanksumsResult(statistic=0.90726683403318487, pvalue=0.3642657083570856)","RanksumsResult(statistic=1.0009927466399189, pvalue=0.31683031508867787)","RanksumsResult(statistic=1.0197379291612656, pvalue=0.30785276809685891)","RanksumsResult(statistic=1.023486965665535, pvalue=0.30607765959057021)"
+328,ripe a,0,0,0,0,0,0
+107,tfa strawberry ripe,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=0.95975334509295585, pvalue=0.33717936825401251)","RanksumsResult(statistic=0.90726683403318487, pvalue=0.3642657083570856)","RanksumsResult(statistic=1.0009927466399189, pvalue=0.31683031508867787)","RanksumsResult(statistic=0.94100816257160902, pvalue=0.34670067620273215)","RanksumsResult(statistic=0.9222629800502623, pvalue=0.35639141903067484)"
+378,raspberry one,0,0,0,0,0,0
+357,rhubarb,0,0,0,0,0,0
+335,wintergreen,0,0,0,0,0,0
+256,e yogurt,0,0,0,0,0,0
+311,beer,0,0,0,0,0,0
+355,rex,0,0,0,0,0,0
+140,peanut butter,"RanksumsResult(statistic=0.69732078979410073, pvalue=0.4856020602608091)","RanksumsResult(statistic=0.64858331523859902, pvalue=0.51660774280805732)","RanksumsResult(statistic=0.71231693581117816, pvalue=0.47626853902974786)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.68982271678556206, pvalue=0.49030568107691219)"
+423,peanut but,0,0,0,0,0,0
+418,e sucralose,0,0,0,0,0,0
+305,y ac,0,0,0,0,0,0
+121,peanut butter cup,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=0.95975334509295585, pvalue=0.33717936825401251)","RanksumsResult(statistic=0.90726683403318487, pvalue=0.3642657083570856)","RanksumsResult(statistic=0.82103899443498962, pvalue=0.41162405713954453)","RanksumsResult(statistic=0.81728995793072023, pvalue=0.41376274418364678)","RanksumsResult(statistic=0.81728995793072023, pvalue=0.41376274418364678)"
+442,amaretto,0,0,0,0,0,0
+149,tiramisu,"RanksumsResult(statistic=0.69732078979410073, pvalue=0.4856020602608091)","RanksumsResult(statistic=0.64858331523859902, pvalue=0.51660774280805732)","RanksumsResult(statistic=0.56985354864894255, pvalue=0.56877703266601543)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.60734391369163609, pvalue=0.54362270117660394)"
+327,rew,0,0,0,0,0,0
+109,smooth,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=0.95975334509295585, pvalue=0.33717936825401251)","RanksumsResult(statistic=0.90726683403318487, pvalue=0.3642657083570856)","RanksumsResult(statistic=1.0009927466399189, pvalue=0.31683031508867787)","RanksumsResult(statistic=0.90726683403318487, pvalue=0.3642657083570856)","RanksumsResult(statistic=0.90726683403318487, pvalue=0.3642657083570856)"
+424,peanut,0,0,0,0,0,0
+69,mocha,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.1359580607936157, pvalue=0.25597411696398742)","RanksumsResult(statistic=1.2109387908790028, pvalue=0.22591886433785779)","RanksumsResult(statistic=1.2409310829131577, pvalue=0.2146312090407505)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+51,boom,"RanksumsResult(statistic=1.3983906160924708, pvalue=0.1619957995507868)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.3384060320241611, pvalue=0.18076411364028022)","RanksumsResult(statistic=1.3421550685284305, pvalue=0.17954572157303872)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+417,peach,0,0,0,0,0,0
+291,cloud,0,0,0,0,0,0
+138,blood orange,"RanksumsResult(statistic=0.69732078979410073, pvalue=0.4856020602608091)","RanksumsResult(statistic=0.64858331523859902, pvalue=0.51660774280805732)","RanksumsResult(statistic=0.71231693581117816, pvalue=0.47626853902974786)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.68982271678556206, pvalue=0.49030568107691219)"
+292,vanilla cupcake,0,0,0,0,0,0
+206,a watermelon,0,0,0,0,0,0
+165,blackberry,0,0,0,0,0,0
+391,blackber,0,0,0,0,0,0
+228,capella,0,0,0,0,0,0
+253,capel,0,0,0,0,0,0
+299,pear,0,0,0,0,0,0
+314,butter,0,0,0,0,0,0
+43,bubblegum,"RanksumsResult(statistic=1.3983906160924708, pvalue=0.1619957995507868)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.3908925430839321, pvalue=0.16425801438537213)","RanksumsResult(statistic=1.3871435065796627, pvalue=0.16539800785016157)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+60,pecan,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.297166630477198, pvalue=0.19457385962529061)","RanksumsResult(statistic=1.2409310829131577, pvalue=0.2146312090407505)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+63,e lemonade,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.2559272289302352, pvalue=0.20914235532701342)","RanksumsResult(statistic=1.2409310829131577, pvalue=0.2146312090407505)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+285,skittle,0,0,0,0,0,0
+168,pale,0,0,0,0,0,0
+36,e vanilla b,"RanksumsResult(statistic=1.3983906160924708, pvalue=0.1619957995507868)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.4508771271522418, pvalue=0.14681407805657296)","RanksumsResult(statistic=1.4546261636565112, pvalue=0.14577278371258162)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+380,oko,0,0,0,0,0,0
+404,strawberry ca,0,0,0,0,0,0
+339,bf,0,0,0,0,0,0
+456,green apple,0,0,0,0,0,0
+295,thug juice,0,0,0,0,0,0
+193,ginger,0,0,0,0,0,0
+86,starburst,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=0.95975334509295585, pvalue=0.33717936825401251)","RanksumsResult(statistic=1.1359580607936157, pvalue=0.25597411696398742)","RanksumsResult(statistic=1.0009927466399189, pvalue=0.31683031508867787)","RanksumsResult(statistic=1.0797225132295754, pvalue=0.28026576549398885)","RanksumsResult(statistic=1.0797225132295754, pvalue=0.28026576549398885)"
+173,honeysuckle,0,0,0,0,0,0
+354,pink champagne,0,0,0,0,0,0
+445,lkj,0,0,0,0,0,0
+105,em sweetener,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=0.95975334509295585, pvalue=0.33717936825401251)","RanksumsResult(statistic=0.90726683403318487, pvalue=0.3642657083570856)","RanksumsResult(statistic=1.0009927466399189, pvalue=0.31683031508867787)","RanksumsResult(statistic=0.94100816257160902, pvalue=0.34670067620273215)","RanksumsResult(statistic=0.93725912606733974, pvalue=0.34862528255030789)"
+458,coconut cream pie,0,0,0,0,0,0
+309,cap sweet strawberry,0,0,0,0,0,0
+78,graham cracker clear,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.1359580607936157, pvalue=0.25597411696398742)","RanksumsResult(statistic=1.1359580607936157, pvalue=0.25597411696398742)","RanksumsResult(statistic=1.1434561338021545, pvalue=0.25284925762974897)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+211,raspberry apple,0,0,0,0,0,0
+158,peanut butter e,"RanksumsResult(statistic=0.47612763604220859, pvalue=0.63398344944147633)","RanksumsResult(statistic=0.64858331523859902, pvalue=0.51660774280805732)","RanksumsResult(statistic=0.56985354864894255, pvalue=0.56877703266601543)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.53986125661478768, pvalue=0.58929271844911457)"
+194,zzzz,0,0,0,0,0,0
+310,eggnog,0,0,0,0,0,0
+198,molasses,0,0,0,0,0,0
+220,strawberry cupcake,0,0,0,0,0,0
+170,licorice,0,0,0,0,0,0
+341,banana coconut,0,0,0,0,0,0
+396,fw yellow cake,0,0,0,0,0,0
+52,peanut butter v,"RanksumsResult(statistic=1.3983906160924708, pvalue=0.1619957995507868)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.3384060320241611, pvalue=0.18076411364028022)","RanksumsResult(statistic=1.3421550685284305, pvalue=0.17954572157303872)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+1,rootbeer,"RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.7170587189553663, pvalue=0.085968443783262766)","RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+353,fa almond,0,0,0,0,0,0
+376,la peach,0,0,0,0,0,0
+275,yun,0,0,0,0,0,0
+407,capella cool mint,0,0,0,0,0,0
+112,coconut rum,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=0.95975334509295585, pvalue=0.33717936825401251)","RanksumsResult(statistic=0.90726683403318487, pvalue=0.3642657083570856)","RanksumsResult(statistic=0.82103899443498962, pvalue=0.41162405713954453)","RanksumsResult(statistic=0.88477261500756865, pvalue=0.37627928216718565)","RanksumsResult(statistic=0.88477261500756865, pvalue=0.37627928216718565)"
+126,american red,"RanksumsResult(statistic=0.69732078979410073, pvalue=0.4856020602608091)","RanksumsResult(statistic=0.64858331523859902, pvalue=0.51660774280805732)","RanksumsResult(statistic=0.71231693581117816, pvalue=0.47626853902974786)","RanksumsResult(statistic=0.82103899443498962, pvalue=0.41162405713954453)","RanksumsResult(statistic=0.77605055638375731, pvalue=0.43771913570453624)","RanksumsResult(statistic=0.78729766589656536, pvalue=0.43110763573410116)"
+333,greek yogurt,0,0,0,0,0,0
+383,frontier,0,0,0,0,0,0
+414,wild cherry,0,0,0,0,0,0
+388,zooch,0,0,0,0,0,0
+219,coconut g,0,0,0,0,0,0
+145,reunite,"RanksumsResult(statistic=0.69732078979410073, pvalue=0.4856020602608091)","RanksumsResult(statistic=0.64858331523859902, pvalue=0.51660774280805732)","RanksumsResult(statistic=0.56985354864894255, pvalue=0.56877703266601543)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.63733620572579097, pvalue=0.52390587237907926)"
+50,gummy candy,"RanksumsResult(statistic=1.3983906160924708, pvalue=0.1619957995507868)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.3908925430839321, pvalue=0.16425801438537213)","RanksumsResult(statistic=1.3421550685284305, pvalue=0.17954572157303872)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+74,jamaican rum,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.1359580607936157, pvalue=0.25597411696398742)","RanksumsResult(statistic=1.1359580607936157, pvalue=0.25597411696398742)","RanksumsResult(statistic=1.1622013163235012, pvalue=0.24515370011098814)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+389,vanillin,0,0,0,0,0,0
+283,tobacco ab,0,0,0,0,0,0
+403,rice krispies,0,0,0,0,0,0
+325,gummi bear,0,0,0,0,0,0
+251,blue raspberry slush,0,0,0,0,0,0
+321,pomegrana,0,0,0,0,0,0
+453,kiwi double,0,0,0,0,0,0
+223,pomegranate,0,0,0,0,0,0
+401,em sweete,0,0,0,0,0,0
+91,root beer o,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=0.95975334509295585, pvalue=0.33717936825401251)","RanksumsResult(statistic=1.1359580607936157, pvalue=0.25597411696398742)","RanksumsResult(statistic=1.0009927466399189, pvalue=0.31683031508867787)","RanksumsResult(statistic=1.0797225132295754, pvalue=0.28026576549398885)","RanksumsResult(statistic=1.0422321481868817, pvalue=0.29730406162794376)"
+176,creamy coconut,0,0,0,0,0,0
+298,almond,0,0,0,0,0,0
+350,super s,0,0,0,0,0,0
+57,meringue,"RanksumsResult(statistic=1.3983906160924708, pvalue=0.1619957995507868)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.297166630477198, pvalue=0.19457385962529061)","RanksumsResult(statistic=1.297166630477198, pvalue=0.19457385962529061)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+435,titty,0,0,0,0,0,0
+436,coca,0,0,0,0,0,0
+381,super sweet,0,0,0,0,0,0
+406,pineapple,0,0,0,0,0,0
+12,pineapp,"RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.6345799158614405, pvalue=0.10213714075486914)","RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+247,honeydew,0,0,0,0,0,0
+214,bse,0,0,0,0,0,0
+294,orange,0,0,0,0,0,0
+44,grape,"RanksumsResult(statistic=1.3983906160924708, pvalue=0.1619957995507868)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.3908925430839321, pvalue=0.16425801438537213)","RanksumsResult(statistic=1.3871435065796627, pvalue=0.16539800785016157)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+188,yogurt,0,0,0,0,0,0
+368,coconut,0,0,0,0,0,0
+312,tangerine,0,0,0,0,0,0
+332,lemon meringue pie,0,0,0,0,0,0
+238,yog,0,0,0,0,0,0
+320,butterscotch,0,0,0,0,0,0
+264,rhm,0,0,0,0,0,0
+293,banana g,0,0,0,0,0,0
+11,coconut fl,"RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.6420779888699792, pvalue=0.10057384263376107)","RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+37,huckleberry,"RanksumsResult(statistic=1.3983906160924708, pvalue=0.1619957995507868)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.4508771271522418, pvalue=0.14681407805657296)","RanksumsResult(statistic=1.4546261636565112, pvalue=0.14577278371258162)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+64,bubble,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.2109387908790028, pvalue=0.22591886433785779)","RanksumsResult(statistic=1.2409310829131577, pvalue=0.2146312090407505)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+273,horchata,0,0,0,0,0,0
+422,apple ca,0,0,0,0,0,0
+426,blackcurrant,0,0,0,0,0,0
+27,mola,"RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.5258578572376291, pvalue=0.12704526800681268)","RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+346,peppermint,0,0,0,0,0,0
+42,brandy,"RanksumsResult(statistic=1.3983906160924708, pvalue=0.1619957995507868)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.3908925430839321, pvalue=0.16425801438537213)","RanksumsResult(statistic=1.3871435065796627, pvalue=0.16539800785016157)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+187,banana nut bread,0,0,0,0,0,0
+22,cpa,"RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.5595991857760532, pvalue=0.1188546290545163)","RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+123,cotton candy,"RanksumsResult(statistic=0.69732078979410073, pvalue=0.4856020602608091)","RanksumsResult(statistic=0.64858331523859902, pvalue=0.51660774280805732)","RanksumsResult(statistic=0.90726683403318487, pvalue=0.3642657083570856)","RanksumsResult(statistic=0.82103899443498962, pvalue=0.41162405713954453)","RanksumsResult(statistic=0.8022938119136428, pvalue=0.42238302110170023)","RanksumsResult(statistic=0.80604284841791218, pvalue=0.4202181431996207)"
+441,any one,0,0,0,0,0,0
+216,pumpkin,0,0,0,0,0,0
+451,lychee,0,0,0,0,0,0
+303,absinthe,0,0,0,0,0,0
+265,yg,0,0,0,0,0,0
+280,fw,0,0,0,0,0,0
+322,ananas,0,0,0,0,0,0
+408,n nut,0,0,0,0,0,0
+377,coconut milk,0,0,0,0,0,0
+449,cooling agent,0,0,0,0,0,0
+224,fa meringue,0,0,0,0,0,0
+13,vanilla butter,"RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.6233328063486323, pvalue=0.10451828015496789)","RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+431,menthol blend,0,0,0,0,0,0
+243,cap vanilla custard,0,0,0,0,0,0
+98,blue raspberry ca,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=0.95975334509295585, pvalue=0.33717936825401251)","RanksumsResult(statistic=0.90726683403318487, pvalue=0.3642657083570856)","RanksumsResult(statistic=1.0009927466399189, pvalue=0.31683031508867787)","RanksumsResult(statistic=0.98599660062284133, pvalue=0.32413478099007742)","RanksumsResult(statistic=0.98974563712711072, pvalue=0.32229846233921045)"
+30,cantaloupe,"RanksumsResult(statistic=1.3983906160924708, pvalue=0.1619957995507868)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.4921165286992049, pvalue=0.13566859953458379)","RanksumsResult(statistic=1.4921165286992049, pvalue=0.13566859953458379)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+308,yellow color,0,0,0,0,0,0
+235,wale,0,0,0,0,0,0
+276,tfa sweetener,0,0,0,0,0,0
+92,pom,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=0.95975334509295585, pvalue=0.33717936825401251)","RanksumsResult(statistic=1.1359580607936157, pvalue=0.25597411696398742)","RanksumsResult(statistic=1.0009927466399189, pvalue=0.31683031508867787)","RanksumsResult(statistic=1.0347340751783429, pvalue=0.30079311793256336)","RanksumsResult(statistic=1.0347340751783429, pvalue=0.30079311793256336)"
+371,papaya,0,0,0,0,0,0
+125,lemon lime,"RanksumsResult(statistic=0.69732078979410073, pvalue=0.4856020602608091)","RanksumsResult(statistic=0.64858331523859902, pvalue=0.51660774280805732)","RanksumsResult(statistic=0.90726683403318487, pvalue=0.3642657083570856)","RanksumsResult(statistic=0.82103899443498962, pvalue=0.41162405713954453)","RanksumsResult(statistic=0.79104670240083474, pvalue=0.42891673898803528)","RanksumsResult(statistic=0.78729766589656536, pvalue=0.43110763573410116)"
+129,d yogurt,"RanksumsResult(statistic=0.69732078979410073, pvalue=0.4856020602608091)","RanksumsResult(statistic=0.64858331523859902, pvalue=0.51660774280805732)","RanksumsResult(statistic=0.71231693581117816, pvalue=0.47626853902974786)","RanksumsResult(statistic=0.82103899443498962, pvalue=0.41162405713954453)","RanksumsResult(statistic=0.75355633735814109, pvalue=0.45111567060662372)","RanksumsResult(statistic=0.75355633735814109, pvalue=0.45111567060662372)"
+232,peanutbutter,0,0,0,0,0,0
+462,banana split,0,0,0,0,0,0
+72,ethyl maltol,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.1359580607936157, pvalue=0.25597411696398742)","RanksumsResult(statistic=1.2109387908790028, pvalue=0.22591886433785779)","RanksumsResult(statistic=1.1846955353491173, pvalue=0.23613784835126517)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+136,fruity,"RanksumsResult(statistic=0.69732078979410073, pvalue=0.4856020602608091)","RanksumsResult(statistic=0.64858331523859902, pvalue=0.51660774280805732)","RanksumsResult(statistic=0.71231693581117816, pvalue=0.47626853902974786)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.68982271678556206, pvalue=0.49030568107691219)"
+262,sweetener,0,0,0,0,0,0
+106,yoghurt,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=0.95975334509295585, pvalue=0.33717936825401251)","RanksumsResult(statistic=0.90726683403318487, pvalue=0.3642657083570856)","RanksumsResult(statistic=1.0009927466399189, pvalue=0.31683031508867787)","RanksumsResult(statistic=0.94100816257160902, pvalue=0.34670067620273215)","RanksumsResult(statistic=0.92976105305880097, pvalue=0.35249481566619545)"
+190,tfa caramel,0,0,0,0,0,0
+181,super sour,0,0,0,0,0,0
+229,nectarine,0,0,0,0,0,0
+301,caramel macchiato,0,0,0,0,0,0
+8,raspberry v,"RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.6645722078955953, pvalue=0.095998133922403056)","RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+141,yuko,"RanksumsResult(statistic=0.69732078979410073, pvalue=0.4856020602608091)","RanksumsResult(statistic=0.64858331523859902, pvalue=0.51660774280805732)","RanksumsResult(statistic=0.71231693581117816, pvalue=0.47626853902974786)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.68982271678556206, pvalue=0.49030568107691219)"
+182,sweet grape,0,0,0,0,0,0
+363,condensed milk,0,0,0,0,0,0
+367,la watermelon,0,0,0,0,0,0
+118,blackberry lemonade,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=0.95975334509295585, pvalue=0.33717936825401251)","RanksumsResult(statistic=0.90726683403318487, pvalue=0.3642657083570856)","RanksumsResult(statistic=0.82103899443498962, pvalue=0.41162405713954453)","RanksumsResult(statistic=0.83978417695633634, pvalue=0.40102940679864896)","RanksumsResult(statistic=0.84353321346060572, pvalue=0.39893029842258454)"
+68,yellow e,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.1359580607936157, pvalue=0.25597411696398742)","RanksumsResult(statistic=1.2109387908790028, pvalue=0.22591886433785779)","RanksumsResult(statistic=1.2409310829131577, pvalue=0.2146312090407505)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+6,d wine,"RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.6795683539126727, pvalue=0.093041329204831116)","RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+142,malted milk,"RanksumsResult(statistic=0.69732078979410073, pvalue=0.4856020602608091)","RanksumsResult(statistic=0.64858331523859902, pvalue=0.51660774280805732)","RanksumsResult(statistic=0.71231693581117816, pvalue=0.47626853902974786)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.68982271678556206, pvalue=0.49030568107691219)"
+244,sour apple,0,0,0,0,0,0
+261,mango,0,0,0,0,0,0
+342,watermelon,0,0,0,0,0,0
+200,strawberry candy,0,0,0,0,0,0
+29,peanut butter jelly,"RanksumsResult(statistic=1.3983906160924708, pvalue=0.1619957995507868)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.5108617112205516, pvalue=0.13082368787459503)","RanksumsResult(statistic=1.5071126747162822, pvalue=0.13178177850256961)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+457,maple syrup,0,0,0,0,0,0
+347,caramel ca,0,0,0,0,0,0
+116,toasted almond,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=0.95975334509295585, pvalue=0.33717936825401251)","RanksumsResult(statistic=0.90726683403318487, pvalue=0.3642657083570856)","RanksumsResult(statistic=0.82103899443498962, pvalue=0.41162405713954453)","RanksumsResult(statistic=0.85478032297341378, pvalue=0.39267277346898077)","RanksumsResult(statistic=0.84353321346060572, pvalue=0.39893029842258454)"
+379,pumpkin spice,0,0,0,0,0,0
+236,fa caramel,0,0,0,0,0,0
+54,gingerbread,"RanksumsResult(statistic=1.3983906160924708, pvalue=0.1619957995507868)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.297166630477198, pvalue=0.19457385962529061)","RanksumsResult(statistic=1.3234098860070838, pvalue=0.18569910594122541)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+79,apple candy,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.1359580607936157, pvalue=0.25597411696398742)","RanksumsResult(statistic=1.1359580607936157, pvalue=0.25597411696398742)","RanksumsResult(statistic=1.1322090242893463, pvalue=0.25754656702121004)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+397,afternoon delight,0,0,0,0,0,0
+19,coconut candy,"RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.5820934048016695, pvalue=0.11362824899706467)","RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+24,zombie killer,"RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.5408540032547065, pvalue=0.12335232264969935)","RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+25,tropical punch,"RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.5408540032547065, pvalue=0.12335232264969935)","RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+87,white chocolate,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=0.95975334509295585, pvalue=0.33717936825401251)","RanksumsResult(statistic=1.1359580607936157, pvalue=0.25597411696398742)","RanksumsResult(statistic=1.0009927466399189, pvalue=0.31683031508867787)","RanksumsResult(statistic=1.0797225132295754, pvalue=0.28026576549398885)","RanksumsResult(statistic=1.0722244402210366, pvalue=0.2836192354275936)"
+143,white chocola,"RanksumsResult(statistic=0.69732078979410073, pvalue=0.4856020602608091)","RanksumsResult(statistic=0.64858331523859902, pvalue=0.51660774280805732)","RanksumsResult(statistic=0.71231693581117816, pvalue=0.47626853902974786)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.65233235174286841, pvalue=0.51418679410912582)"
+349,zebra stripe,0,0,0,0,0,0
+286,caramel cap,0,0,0,0,0,0
+110,vanilla bourbon,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=0.95975334509295585, pvalue=0.33717936825401251)","RanksumsResult(statistic=0.90726683403318487, pvalue=0.3642657083570856)","RanksumsResult(statistic=0.82103899443498962, pvalue=0.41162405713954453)","RanksumsResult(statistic=0.89976876102464609, pvalue=0.36824332205956822)","RanksumsResult(statistic=0.89976876102464609, pvalue=0.36824332205956822)"
+127,blueraspberry,"RanksumsResult(statistic=0.69732078979410073, pvalue=0.4856020602608091)","RanksumsResult(statistic=0.64858331523859902, pvalue=0.51660774280805732)","RanksumsResult(statistic=0.71231693581117816, pvalue=0.47626853902974786)","RanksumsResult(statistic=0.82103899443498962, pvalue=0.41162405713954453)","RanksumsResult(statistic=0.77605055638375731, pvalue=0.43771913570453624)","RanksumsResult(statistic=0.77230151987948792, pvalue=0.43993586544177665)"
+336,zebra stripe gum,0,0,0,0,0,0
+318,candy watermelon,0,0,0,0,0,0
+80,fuji apple,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.1359580607936157, pvalue=0.25597411696398742)","RanksumsResult(statistic=1.1359580607936157, pvalue=0.25597411696398742)","RanksumsResult(statistic=1.1247109512808076, pvalue=0.26071153953512771)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+89,melon mint,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=0.95975334509295585, pvalue=0.33717936825401251)","RanksumsResult(statistic=1.1359580607936157, pvalue=0.25597411696398742)","RanksumsResult(statistic=1.0009927466399189, pvalue=0.31683031508867787)","RanksumsResult(statistic=1.0797225132295754, pvalue=0.28026576549398885)","RanksumsResult(statistic=1.0572282942039593, pvalue=0.29040740967469691)"
+48,kentucky bourbon,"RanksumsResult(statistic=1.3983906160924708, pvalue=0.1619957995507868)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.3908925430839321, pvalue=0.16425801438537213)","RanksumsResult(statistic=1.3871435065796627, pvalue=0.16539800785016157)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+135,papa smurf,"RanksumsResult(statistic=0.69732078979410073, pvalue=0.4856020602608091)","RanksumsResult(statistic=0.64858331523859902, pvalue=0.51660774280805732)","RanksumsResult(statistic=0.71231693581117816, pvalue=0.47626853902974786)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.58110065816175061, pvalue=0.56117261509835925)","RanksumsResult(statistic=0.68982271678556206, pvalue=0.49030568107691219)"
+23,zebra,"RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.5521011127675146, pvalue=0.1206380317874821)","RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+31,caramel mocha,"RanksumsResult(statistic=1.3983906160924708, pvalue=0.1619957995507868)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.4921165286992049, pvalue=0.13566859953458379)","RanksumsResult(statistic=1.4921165286992049, pvalue=0.13566859953458379)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+95,inw biscuit,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=0.95975334509295585, pvalue=0.33717936825401251)","RanksumsResult(statistic=0.90726683403318487, pvalue=0.3642657083570856)","RanksumsResult(statistic=1.0009927466399189, pvalue=0.31683031508867787)","RanksumsResult(statistic=1.0122398561527268, pvalue=0.31142338385858181)","RanksumsResult(statistic=1.0122398561527268, pvalue=0.31142338385858181)"
+119,ygt,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=0.95975334509295585, pvalue=0.33717936825401251)","RanksumsResult(statistic=0.90726683403318487, pvalue=0.3642657083570856)","RanksumsResult(statistic=0.82103899443498962, pvalue=0.41162405713954453)","RanksumsResult(statistic=0.83228610394779767, pvalue=0.40524747233584524)","RanksumsResult(statistic=0.84353321346060572, pvalue=0.39893029842258454)"
+267,yougurt,0,0,0,0,0,0
+338,cap super sweet,0,0,0,0,0,0
+169,yumberry,0,0,0,0,0,0
+103,raspberry w,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=0.95975334509295585, pvalue=0.33717936825401251)","RanksumsResult(statistic=0.90726683403318487, pvalue=0.3642657083570856)","RanksumsResult(statistic=1.0009927466399189, pvalue=0.31683031508867787)","RanksumsResult(statistic=0.94100816257160902, pvalue=0.34670067620273215)","RanksumsResult(statistic=0.95225527208441718, pvalue=0.34096753571289717)"
+82,ccls,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.1359580607936157, pvalue=0.25597411696398742)","RanksumsResult(statistic=1.1359580607936157, pvalue=0.25597411696398742)","RanksumsResult(statistic=1.0797225132295754, pvalue=0.28026576549398885)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+101,coconut diy,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=0.95975334509295585, pvalue=0.33717936825401251)","RanksumsResult(statistic=0.90726683403318487, pvalue=0.3642657083570856)","RanksumsResult(statistic=1.0009927466399189, pvalue=0.31683031508867787)","RanksumsResult(statistic=0.96725141810149462, pvalue=0.33341836360671895)","RanksumsResult(statistic=0.96725141810149462, pvalue=0.33341836360671895)"
+61,capella ca,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.297166630477198, pvalue=0.19457385962529061)","RanksumsResult(statistic=1.2409310829131577, pvalue=0.2146312090407505)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+2,vanilla bean gelato,"RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.7095606459468276, pvalue=0.087347148162458824)","RanksumsResult(statistic=1.6195837698443629, pvalue=0.10532171835211786)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+164,white out,0,0,0,0,0,0
+192,banana gone nut,0,0,0,0,0,0
+81,yellow cupcake,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.1359580607936157, pvalue=0.25597411696398742)","RanksumsResult(statistic=1.1359580607936157, pvalue=0.25597411696398742)","RanksumsResult(statistic=1.0797225132295754, pvalue=0.28026576549398885)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+233,apple sour,0,0,0,0,0,0
+419,beer hang,0,0,0,0,0,0
+252,fruity flake,0,0,0,0,0,0
+46,fa orange,"RanksumsResult(statistic=1.3983906160924708, pvalue=0.1619957995507868)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.3908925430839321, pvalue=0.16425801438537213)","RanksumsResult(statistic=1.3871435065796627, pvalue=0.16539800785016157)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+323,vanilla raspberry,0,0,0,0,0,0
+425,tfa sour,0,0,0,0,0,0
+372,boysenberry,0,0,0,0,0,0
+434,candy corn,0,0,0,0,0,0
+196,sour raspberry,0,0,0,0,0,0
+41,holiday spice,"RanksumsResult(statistic=1.3983906160924708, pvalue=0.1619957995507868)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)","RanksumsResult(statistic=1.4808694191863967, pvalue=0.13864137348137903)","RanksumsResult(statistic=1.3908925430839321, pvalue=0.16425801438537213)","RanksumsResult(statistic=1.4208848351180869, pvalue=0.15535024234365868)","RanksumsResult(statistic=1.4171357986138176, pvalue=0.15644322787991516)"
+209,tfa caramel candy,0,0,0,0,0,0
+393,butter toffee,0,0,0,0,0,0
+199,acai berry,0,0,0,0,0,0
+240,caramel candy,0,0,0,0,0,0
+108,capella blueberry,"RanksumsResult(statistic=1.0459811846911511, pvalue=0.29556971942201793)","RanksumsResult(statistic=0.95975334509295585, pvalue=0.33717936825401251)","RanksumsResult(statistic=0.90726683403318487, pvalue=0.3642657083570856)","RanksumsResult(statistic=1.0009927466399189, pvalue=0.31683031508867787)","RanksumsResult(statistic=0.91476490704172353, pvalue=0.36031506142351966)","RanksumsResult(statistic=0.91476490704172353, pvalue=0.36031506142351966)"
