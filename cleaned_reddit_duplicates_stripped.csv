@@ -4,7 +4,7 @@ rootbeer,5,5
 vanilla bean gelato,0,4
 fe lemon,2,0
 caramel cream,4,0
-menthol,2421,862
+menthol,2431,864
 d wine,3,6
 tfa peanut butter,2,0
 raspberry v,1,2
@@ -20,7 +20,7 @@ yellow cake,60,6
 butter caramel,4,0
 coconut candy,5,15
 vanilla swirl,33,2
-cola,1101,291
+cola,1111,347
 cpa,115,155
 zebra,1,274
 zombie killer,4,12
@@ -32,7 +32,7 @@ peanut butter jelly,6,14
 cantaloupe,10,15
 caramel mocha,0,4
 rice krispy treat,7,2
-vanilla bean ice cream,271,25
+vanilla bean ice cream,267,26
 custard cream,7,1
 koolad,-39,-27
 e vanilla b,10,9
@@ -43,7 +43,7 @@ zen garden,22,11
 holiday spice,0,2
 brandy,3,4
 bubblegum,48,42
-grape,100,130
+grape,128,143
 citric acid,11,6
 fa orange,0,2
 fa cheesecake,4,1
@@ -56,7 +56,7 @@ vanilla custard v,-1,-1
 gingerbread,6,18
 apple pie,171,83
 cappuccino,66,18
-meringue,90,93
+meringue,73,74
 jackfruit,5,1
 e cardamom,6,2
 pecan,148,130
@@ -70,9 +70,9 @@ maraschino cherry,2,0
 yellow e,1,2
 mocha,24,15
 raspberry g,7,0
-cheesecake,921,134
+cheesecake,921,135
 ethyl maltol,48,84
-cream,3504,1014
+cream,3502,1014
 jamaican rum,1,1
 strawberry ripe,87,23
 after dark,10,4
@@ -114,7 +114,7 @@ tfa sweet cream,3,0
 coconut rum,1,1
 menthol crystal,4,0
 cake yellow,3,0
-vanilla bean i,-250,-21
+vanilla bean i,15,4
 toasted almond,6,15
 key lime,130,78
 blackberry lemonade,1,2
@@ -139,14 +139,14 @@ fruity,621,1096
 tart sour,3,1
 blood orange,44,36
 strawberry capella,2,0
-peanut butter,2773,1975
+peanut butter,2767,1971
 yuko,2,4
 malted milk,1,2
 white chocola,-15,-50
 peanut butter cookie,14,2
 reunite,1,1
-caramel c,51,14
-banana cr,-838,-156
+caramel c,53,14
+banana cr,82,23
 blue raspberry cotton candy,5,0
 tiramisu,105,80
 root beer,729,19
@@ -155,17 +155,17 @@ cap harvest berry,2,0
 cheesecake graham crust,4,0
 rice krispy,7,4
 orange cream,42,14
-raspberry,6623,2590
+raspberry,6619,2592
 vanilla custard,1658,761
 peanut butter e,2,2
 coconut extract,2,0
 strawberry conc,0,0
 chestnut,3,1
-strawberry,18235,4729
-cinnamon,1810,260
+strawberry,18263,4732
+cinnamon,2093,290
 white out,0,8
 blackberry,18,14
-vanilla,1459,794
+vanilla,1461,798
 chocolate cream,27,0
 pale,30,27
 yumberry,0,13
@@ -177,17 +177,17 @@ dragon fruit,82,6
 mandarin,8,2
 creamy coconut,4,4
 peanut butter chocolate,8,4
-strawberry r,-53,-17
+strawberry r,31,4
 vanilla butternut,14,0
 sugar coo,20,4
 super sour,1,2
 sweet grape,1,2
-ice cream,-49,-7
+ice cream,216,18
 toasted coconut,2,0
 banana cream,920,179
 sweet strawberry cap,2,0
 banana nut bread,24,32
-yogurt,1830,2072
+yogurt,1830,2068
 chocolate g,13,5
 tfa caramel,2,2
 passionfruit,8,2
@@ -196,23 +196,23 @@ ginger,33,19
 zzzz,12,12
 caramel tobacco,6,0
 sour raspberry,0,2
-vanilla bean ice crea,-250,-23
+vanilla bean ice crea,15,2
 molasses,3,3
 acai berry,0,6
 strawberry candy,6,14
-vanilla bean ic,-250,-21
+vanilla bean ic,15,4
 raspberry sweet,8,0
 sweetener sucralose,6,3
 la banana cream,4,1
 cream fresh,2,0
 a watermelon,5,3
 strawberry cheescake,2,0
-blue raspberry,619,240
+blue raspberry,616,243
 tfa caramel candy,0,2
 toasted marshmallow,15,0
 raspberry apple,1,1
 earl grey tea,32,6
-tfa,538,308
+tfa,534,308
 bse,132,148
 pg m,54,31
 pumpkin,13,6
@@ -224,10 +224,10 @@ biscotti,5,2
 smoke pipe,4,0
 pomegranate,25,25
 fa meringue,2,3
-coconut ex,2,0
+coconut ex,1,0
 turkish,19,7
 inw raspberry,2,0
-capella,400,337
+capella,398,340
 nectarine,2,4
 fa marshmallow,2,0
 strawberry v,25,6
@@ -235,9 +235,9 @@ peanutbutter,12,21
 apple sour,0,8
 raspberry h,5,1
 wale,2,3
-fa caramel,0,4
+fa caramel,2,4
 coffee,1174,584
-yog,177,211
+yog,177,207
 caramel v,32,12
 caramel candy,0,30
 blueberry,4116,960
@@ -252,34 +252,34 @@ tfa vanilla custard,2,0
 cinnamon danish,53,0
 blue raspberry slush,1,1
 fruity flake,0,2
-capel,40,31
+capel,38,34
 vanilla bean ice cream t,2,1
 rhubarb custard,2,0
 e yogurt,9,6
 shenanigan,12,3
 strawberry concentrate,2,0
 caramel cappuccino,2,0
-caramel,10028,5130
+caramel,10030,5130
 mango,500,1112
-sweetener,214,404
+sweetener,209,402
 berry crunch,117,18
 rhm,5,6
 yg,179,247
 strawberry cap,0,0
 yougurt,0,22
 banana,5026,2807
-vanilla bean ice,-208,-13
+vanilla bean ice,57,12
 tutti frutti,4,0
-chocolate,843,156
+chocolate,853,212
 vanilla c,330,150
 horchata,87,115
 fruit circle,12,0
 yun,13,13
 tfa sweetener,2,3
-anana cream,-843,-164
-hazelnut,453,112
+anana cream,73,14
+hazelnut,452,112
 e brown sugar,14,0
-fw,201,288
+fw,201,286
 blue raspberry fl,6,2
 clove,54,34
 tobacco ab,1,1
@@ -293,7 +293,7 @@ bacon,190,115
 cloud,2114,1726
 vanilla cupcake,88,72
 banana g,10,8
-orange,848,950
+orange,804,916
 thug juice,31,29
 frosted donut,4,0
 peach juicy,2,0
@@ -303,17 +303,17 @@ blueberry extra,0,0
 caramel macchiato,2,4
 apple green,2,0
 absinthe,20,28
-apple,2985,1845
+apple,3155,1927
 y ac,2080,1492
 strawberry cheesecake,158,8
 dr pepper,9,2
 yellow color,2,3
 cap sweet strawberry,8,8
 eggnog,6,6
-beer,295,196
+beer,299,200
 tangerine,14,16
 mg nicotine,131,82
-butter,1250,1080
+butter,1244,1076
 blue lemonade,3,0
 sugar cookie cap,2,0
 caramel original,20,0
@@ -336,20 +336,20 @@ greek yogurt,6,6
 dulce de leche,12,2
 wintergreen,48,32
 zebra stripe gum,11,44
-cookie,111,46
+cookie,116,48
 cap super sweet,0,3
 bf,300,274
 cap sugar cookie,6,2
 banana coconut,6,6
-watermelon,2333,5317
+watermelon,2320,5248
 cranberry,22,12
 yummy gummy,7,0
 tfa vanilla bean ice cream,6,0
 peppermint,27,36
-caramel ca,2,3
+caramel ca,0,5
 dutch apple pie,3,1
 zebra stripe,-10,-40
-super s,183,190
+super s,184,189
 sweet cream,421,90
 tobacco,4445,2070
 fa almond,1,1
@@ -363,11 +363,11 @@ cap butter cream,2,0
 cap sweet cream,4,0
 caramel apple,18,4
 condensed milk,3,6
-cara,272,144
+cara,274,144
 dunhill,2,1
 cap cinnamon danish,0,0
 la watermelon,1,2
-coconut,3177,3606
+coconut,3178,3608
 acetyl pyrazine,24,12
 banana fo,-2294,-883
 papaya,10,16
@@ -399,7 +399,7 @@ fw yellow cake,2,2
 afternoon delight,4,12
 room temp,71,37
 chocolate hazelnut,3,0
-strawberry c,320,41
+strawberry c,348,44
 em sweete,0,0
 chai tea,14,1
 rice krispies,2,2
@@ -409,10 +409,10 @@ pineapple,333,369
 capella cool mint,2,2
 n nut,11,16
 fa bavarian cream,3,1
-lemon,1196,506
+lemon,1197,504
 lacaramel,3,0
 sassafras,4,0
-key l,26,8
+key l,112,59
 wild cherry,4,4
 apricot,42,15
 strawberry milk,149,65
@@ -422,14 +422,14 @@ beer hang,0,2
 tres lech,6,0
 blueberry ice,4,1
 apple ca,2,1
-peanut but,109,79
-peanut,124,99
+peanut but,103,75
+peanut,118,95
 tfa sour,0,2
 blackcurrant,3,4
 e custard,61,29
-lemonade,182,82
+lemonade,195,95
 cherry,125,61
-root,289,51
+root,293,55
 menthol blend,2,3
 strawberry sweet,4,0
 strawberry tf,2,0
@@ -461,3 +461,4 @@ coconut cream pie,4,4
 cherry limeade,3,1
 c r,520,328
 bavarian cream,405,47
+banana split,120,210
